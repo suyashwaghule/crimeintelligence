@@ -1,0 +1,77 @@
+{% extends "base.html" %}
+
+{% block title %}FIR Case Vault{% endblock %}
+{% block page_title %}FIR Incident Vault & Stolen Property Loss Analytics{% endblock %}
+
+{% block content %}
+<div class="kpi-banner mb-3" style="grid-template-columns: repeat(4, 1fr); padding:0 0 16px 0; background:none; border:none;">
+    <div class="kpi-card">
+        <div class="kpi-icon total"><i class="fa-solid fa-file-invoice"></i></div>
+        <div class="kpi-info">
+            <span class="kpi-value" id="fir-total-count">--</span>
+            <span class="kpi-label">FIR Incidents Recorded</span>
+        </div>
+    </div>
+    <div class="kpi-card">
+        <div class="kpi-icon wanted"><i class="fa-solid fa-indian-rupee-sign"></i></div>
+        <div class="kpi-info">
+            <span class="kpi-value alert" id="fir-stolen-inr">--</span>
+            <span class="kpi-label">Stolen Property Loss (INR)</span>
+        </div>
+    </div>
+    <div class="kpi-card">
+        <div class="kpi-icon solved"><i class="fa-solid fa-sack-dollar"></i></div>
+        <div class="kpi-info">
+            <span class="kpi-value" id="fir-recovered-inr">--</span>
+            <span class="kpi-label">Recovered Property Value</span>
+        </div>
+    </div>
+    <div class="kpi-card">
+        <div class="kpi-icon risk"><i class="fa-solid fa-percent"></i></div>
+        <div class="kpi-info">
+            <span class="kpi-value" id="fir-recovery-rate">--%</span>
+            <span class="kpi-label">Asset Recovery Rate</span>
+        </div>
+    </div>
+</div>
+
+<div class="panel-card">
+    <div class="panel-header">
+        <h3><i class="fa-solid fa-database"></i> FIR Incident Case Records (20,000+ Incidents)</h3>
+        <div style="display:flex; gap:8px;">
+            <input type="text" id="fir-search-input" class="search-box" style="width:240px;" placeholder="Search FIR No, Area, Subtype...">
+            <select id="fir-type-filter" class="select-input">
+                <option value="All">All Crime Types</option>
+                <option value="Theft">Theft</option>
+                <option value="Robbery">Robbery</option>
+                <option value="Murder">Murder</option>
+                <option value="Assault">Assault</option>
+                <option value="Cybercrime">Cybercrime</option>
+                <option value="Fraud">Fraud</option>
+            </select>
+            <select id="fir-status-filter" class="select-input">
+                <option value="All">All Case Status</option>
+                <option value="Solved">Solved</option>
+                <option value="Unsolved">Unsolved</option>
+            </select>
+        </div>
+    </div>
+
+    <div style="max-height:500px; overflow-y:auto;">
+        <table style="width:100%; border-collapse:collapse; text-align:left;">
+            <thead>
+                <tr style="background:rgba(255,255,255,0.04); color:var(--primary); font-size:0.85rem; border-bottom:1px solid var(--border-color);">
+                    <th style="padding:10px;">FIR Number</th>
+                    <th style="padding:10px;">Crime Type & Subtype</th>
+                    <th style="padding:10px;">Locality / Area</th>
+                    <th style="padding:10px;">Date & Time</th>
+                    <th style="padding:10px;">Stolen Loss (₹)</th>
+                    <th style="padding:10px;">Recovered (₹)</th>
+                    <th style="padding:10px;">Status</th>
+                </tr>
+            </thead>
+            <tbody id="fir-table-body"></tbody>
+        </table>
+    </div>
+</div>
+{% endblock %}

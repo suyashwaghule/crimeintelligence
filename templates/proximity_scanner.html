@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}Area Proximity Scanner{% endblock %}
+{% block page_title %}Area Proximity & Criminal Radar Scanner{% endblock %}
+
+{% block content %}
+<div class="panel-card mb-3">
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px;">
+        <div style="display:flex; align-items:center; gap:8px;">
+            <label style="font-size:0.85rem; color:var(--text-muted);"><i class="fa-solid fa-location-crosshairs"></i> Select Locality:</label>
+            <select id="area-picker" class="select-input">
+                <option value="Shivajinagar">Shivajinagar</option>
+                <option value="Deccan Gymkhana">Deccan Gymkhana</option>
+                <option value="Kothrud">Kothrud</option>
+                <option value="Swargate">Swargate</option>
+                <option value="Hadapsar">Hadapsar</option>
+                <option value="Hinjewadi">Hinjewadi</option>
+                <option value="Aundh">Aundh</option>
+                <option value="Koregaon Park">Koregaon Park</option>
+                <option value="Kondhwa">Kondhwa</option>
+                <option value="Pimpri">Pimpri</option>
+                <option value="Chinchwad">Chinchwad</option>
+            </select>
+        </div>
+
+        <div style="display:flex; align-items:center; gap:10px;">
+            <label style="font-size:0.85rem; color:var(--text-muted);"><i class="fa-solid fa-ruler"></i> Radius: <span id="radius-val">5.0</span> km</label>
+            <input type="range" id="radius-slider" min="1" max="15" value="5" step="0.5">
+        </div>
+
+        <button class="btn btn-primary" id="btn-scan-area">
+            <i class="fa-solid fa-radar"></i> Scan Nearby Criminals
+        </button>
+    </div>
+</div>
+
+<div class="grid-layout" style="grid-template-columns: 2fr 1fr;">
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-map"></i> Locality Proximity Radar Map</h3>
+        </div>
+        <div id="area-radar-map" class="map-container"></div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-users-viewfinder"></i> Nearby Suspect List</h3>
+        </div>
+        <div id="area-suspects-list" style="display:flex; flex-direction:column; gap:8px; max-height:480px; overflow-y:auto;"></div>
+    </div>
+</div>
+{% endblock %}

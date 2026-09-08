@@ -1,0 +1,301 @@
+officer_id,officer_name,rank,badge_number,phone_number,email,police_station,assigned_area,solved_cases,active_cases,specialization,duty_status
+PO-0001,Vihaan Sheikh,Head Constable,MH-PUN-39256,+917890779946,vihaan.sheikh105@outlook.com,Hinjewadi PS,Hinjewadi,156,13,General Duty,Active
+PO-0002,Suresh Pandey,Head Constable,MH-PUN-95181,+919336696312,suresh.pandey460@outlook.com,Chandannagar PS,Chandan Nagar,6,24,Homicide,Active
+PO-0003,Nilesh Kadam,Senior Inspector,MH-PUN-23396,+916507943839,nilesh.kadam100@hotmail.com,Khadak PS,Raviwar Peth,159,8,General Duty,Active
+PO-0004,Pranav More,Police Constable,MH-PUN-92397,+918719927151,pranav.more197@gmail.com,Yerawada PS,Yerawada,174,7,Anti-Terrorism,On Leave
+PO-0005,Dhruv Khaire,DCP,MH-PUN-93320,+918274648506,dhruv.khaire380@hotmail.com,Hinjewadi PS,Wakad,176,8,Cybercrime,Active
+PO-0006,Rakesh Bose,Assistant Sub-Inspector,MH-PUN-70589,+919389854268,rakesh.bose948@outlook.com,Hadapsar PS,Manjri,180,10,General Duty,Active
+PO-0007,Rohan Bhandari,Sub-Inspector,MH-PUN-37653,+918328306011,rohan.bhandari672@rediffmail.com,Hinjewadi PS,Maan,169,14,Homicide,Active
+PO-0008,Bharat Mishra,ACP,MH-PUN-86484,+919488690725,bharat.mishra225@yahoo.com,Talegaon PS,Talegaon,28,24,General Duty,Off Duty
+PO-0009,Omkar Gaikwad,Sub-Inspector,MH-PUN-60432,+919739830322,omkar.gaikwad480@outlook.com,Dattawadi PS,Dattawadi,146,0,Cybercrime,Active
+PO-0010,Rupesh Nikam,Police Constable,MH-PUN-66985,+917587182120,rupesh.nikam4@hotmail.com,Chatushrungi PS,Lavale,200,5,Organized Crime,Off Duty
+PO-0011,Paresh Pandey,Assistant Sub-Inspector,MH-PUN-59009,+917679153816,paresh.pandey977@outlook.com,Lonavala PS,Lonavala,158,10,Economic Offenses,Active
+PO-0012,Kunal Mane,Head Constable,MH-PUN-84364,+916191969690,kunal.mane750@rediffmail.com,Warje Malwadi PS,Warje,199,17,Homicide,Active
+PO-0013,Asha Gaikwad,ACP,MH-PUN-37760,+917865523129,asha.gaikwad320@rediffmail.com,Talegaon PS,Talegaon,117,16,Economic Offenses,Active
+PO-0014,Ishaan Nikam,Head Constable,MH-PUN-87128,+917107721109,ishaan.nikam73@gmail.com,Chandannagar PS,Kharadi,22,1,Traffic,Active
+PO-0015,Nilesh Roy,Head Constable,MH-PUN-80678,+917876693898,nilesh.roy958@outlook.com,Viman Nagar PS,Lohegaon,126,7,Economic Offenses,Off Duty
+PO-0016,Dhruv Pawar,Senior Inspector,MH-PUN-65519,+919601463916,dhruv.pawar885@gmail.com,Dattawadi PS,Parvati,20,12,Traffic,Off Duty
+PO-0017,Mukesh Yadav,DCP,MH-PUN-28373,+919297018781,mukesh.yadav286@rediffmail.com,Lonavala PS,Lonavala,24,14,Organized Crime,Active
+PO-0018,Advait Khan,Assistant Sub-Inspector,MH-PUN-63269,+919616854671,advait.khan219@rediffmail.com,Hadapsar PS,Hadapsar,47,12,General Duty,On Leave
+PO-0019,Prateek Wagh,DCP,MH-PUN-30289,+917418587604,prateek.wagh223@gmail.com,Dattawadi PS,Parvati,196,10,General Duty,Active
+PO-0020,Sarita Qureshi,Assistant Sub-Inspector,MH-PUN-17455,+916299528037,sarita.qureshi71@outlook.com,Vishrantwadi PS,Khadki,177,7,Women & Child Safety,Active
+PO-0021,Girish Iyer,Sub-Inspector,MH-PUN-64948,+918379995032,girish.iyer210@hotmail.com,Swargate PS,Swargate,72,12,Homicide,Active
+PO-0022,Prateek Ghodke,Inspector,MH-PUN-70068,+916178663096,prateek.ghodke551@yahoo.com,Lashkar PS,East Street,72,4,Traffic,Off Duty
+PO-0023,Karan Wagh,DCP,MH-PUN-81200,+918756783995,karan.wagh827@outlook.com,Saswad PS,Saswad,175,17,Anti-Terrorism,Off Duty
+PO-0024,Dev Kale,Sub-Inspector,MH-PUN-82512,+917392431670,dev.kale289@outlook.com,Chatushrungi PS,Pashan,188,10,Narcotics,Active
+PO-0025,Hitesh Tiwari,Inspector,MH-PUN-22097,+919990505735,hitesh.tiwari284@gmail.com,Talegaon PS,Talegaon,90,24,Homicide,Active
+PO-0026,Rahul Sheikh,ACP,MH-PUN-83519,+916220123666,rahul.sheikh78@yahoo.com,Faraskhana PS,Shukrawar Peth,14,11,Intelligence,Active
+PO-0027,Sunita Jadhav,Senior Inspector,MH-PUN-15229,+918325567963,sunita.jadhav699@yahoo.com,Nigdi PS,Ravet,31,11,Organized Crime,Off Duty
+PO-0028,Sangeeta Sheikh,Head Constable,MH-PUN-31299,+917542697755,sangeeta.sheikh26@yahoo.com,Shivajinagar PS,Model Colony,110,25,Narcotics,Active
+PO-0029,Pranav Jadhav,Head Constable,MH-PUN-36158,+919475442872,pranav.jadhav313@yahoo.com,Chinchwad PS,Chinchwad,11,21,Narcotics,Active
+PO-0030,Ishaan Ansari,Senior Inspector,MH-PUN-94080,+919829627019,ishaan.ansari864@outlook.com,Hinjewadi PS,Tathawade,12,3,Anti-Terrorism,Active
+PO-0031,Arjun Pawar,Senior Inspector,MH-PUN-51114,+919750911797,arjun.pawar524@gmail.com,Dattawadi PS,Dattawadi,152,6,Anti-Terrorism,Active
+PO-0032,Aadhya Dubey,Head Constable,MH-PUN-57739,+919175133802,aadhya.dubey972@hotmail.com,Wagholi PS,Wagholi,174,3,Anti-Terrorism,Active
+PO-0033,Kiran Bhandari,Assistant Sub-Inspector,MH-PUN-35144,+919813962536,kiran.bhandari963@rediffmail.com,Sahakarnagar PS,Sahakarnagar,162,18,Anti-Terrorism,Active
+PO-0034,Vishal Wagh,ACP,MH-PUN-86019,+918599277266,vishal.wagh453@rediffmail.com,Khadak PS,Laxmi Road,59,16,Economic Offenses,Active
+PO-0035,Tejas More,Senior Inspector,MH-PUN-22240,+917822408848,tejas.more318@yahoo.com,Sahakarnagar PS,Sahakarnagar,42,0,General Duty,Active
+PO-0036,Sangeeta Qureshi,DCP,MH-PUN-64321,+917871318048,sangeeta.qureshi714@rediffmail.com,Lashkar PS,MG Road,107,7,Homicide,Active
+PO-0037,Kabir Ansari,Head Constable,MH-PUN-33053,+919153921577,kabir.ansari571@yahoo.com,Dattawadi PS,Parvati,121,4,Economic Offenses,Active
+PO-0038,Ashish Nair,ACP,MH-PUN-81810,+919270894498,ashish.nair762@rediffmail.com,Bharati Vidyapeeth PS,Ambegaon,71,24,Narcotics,Off Duty
+PO-0039,Ramesh Tiwari,Police Constable,MH-PUN-67654,+916866162966,ramesh.tiwari293@yahoo.com,Hadapsar PS,Phursungi,90,10,Organized Crime,Active
+PO-0040,Suresh Khaire,Head Constable,MH-PUN-18418,+919537656494,suresh.khaire339@outlook.com,Shivajinagar PS,Ganeshkhind,111,1,Narcotics,Off Duty
+PO-0041,Komal Ansari,Inspector,MH-PUN-85456,+919612153089,komal.ansari7@hotmail.com,Wanowrie PS,Wanowrie,197,12,Women & Child Safety,Active
+PO-0042,Sumit Deshpande,ACP,MH-PUN-73654,+916517532243,sumit.deshpande345@rediffmail.com,Hinjewadi PS,Wakad,124,4,Intelligence,Active
+PO-0043,Rita Shah,Sub-Inspector,MH-PUN-94246,+919245706210,rita.shah888@rediffmail.com,Chandannagar PS,Kharadi,17,8,Women & Child Safety,Active
+PO-0044,Kiran Nikam,Police Constable,MH-PUN-65255,+918996478772,kiran.nikam84@rediffmail.com,Vishrambaug PS,Sadashiv Peth,196,17,General Duty,On Leave
+PO-0045,Manoj Das,Inspector,MH-PUN-14067,+917314061901,manoj.das860@gmail.com,Lashkar PS,East Street,44,7,Homicide,Active
+PO-0046,Chetan Joshi,Police Constable,MH-PUN-58351,+917750572325,chetan.joshi622@gmail.com,Mundhwa PS,Mundhwa,84,3,Intelligence,Active
+PO-0047,Durgesh Ghosh,ACP,MH-PUN-35995,+916735760237,durgesh.ghosh708@yahoo.com,Vishrambaug PS,Sadashiv Peth,183,24,Anti-Terrorism,Off Duty
+PO-0048,Chetan Shaikh,Senior Inspector,MH-PUN-79827,+919810303128,chetan.shaikh380@gmail.com,Swargate PS,Market Yard,8,13,Economic Offenses,Active
+PO-0049,Paresh Syed,Assistant Sub-Inspector,MH-PUN-67080,+917887906704,paresh.syed535@hotmail.com,Mundhwa PS,Keshav Nagar,124,13,Intelligence,Active
+PO-0050,Advait Salve,Head Constable,MH-PUN-70910,+919461203124,advait.salve30@rediffmail.com,Faraskhana PS,Somwar Peth,51,15,Narcotics,Active
+PO-0051,Akash Salve,Inspector,MH-PUN-77715,+917191926217,akash.salve248@rediffmail.com,Hinjewadi PS,Maan,147,24,Narcotics,Active
+PO-0052,Geeta Shaikh,Sub-Inspector,MH-PUN-48566,+917534222401,geeta.shaikh709@yahoo.com,Chandannagar PS,Chandan Nagar,174,18,Traffic,Active
+PO-0053,Prashant Sheikh,Senior Inspector,MH-PUN-56112,+919390894296,prashant.sheikh314@hotmail.com,Yerawada PS,Yerawada,35,23,Narcotics,Active
+PO-0054,Sanjay Joshi,Police Constable,MH-PUN-87278,+918207939087,sanjay.joshi853@yahoo.com,Chinchwad PS,Akurdi,63,11,Homicide,Active
+PO-0055,Nilesh Jadhav,Police Constable,MH-PUN-26551,+919210152642,nilesh.jadhav894@gmail.com,Warje Malwadi PS,Bavdhan,125,15,Economic Offenses,Active
+PO-0056,Dinesh Verma,Sub-Inspector,MH-PUN-62521,+919179545125,dinesh.verma591@gmail.com,Chatushrungi PS,Pashan,43,25,Intelligence,Off Duty
+PO-0057,Mukesh Chavan,ACP,MH-PUN-89471,+917932894596,mukesh.chavan536@rediffmail.com,Yerawada PS,Kalyani Nagar,118,9,Intelligence,On Leave
+PO-0058,Chetan Nair,Sub-Inspector,MH-PUN-37235,+917384161612,chetan.nair677@gmail.com,Warje Malwadi PS,Warje,66,5,Organized Crime,Active
+PO-0059,Ajay Singh,Police Constable,MH-PUN-14278,+917409350265,ajay.singh724@hotmail.com,Chinchwad PS,Pradhikaran,121,2,Narcotics,Off Duty
+PO-0060,Prashant Chavan,Head Constable,MH-PUN-94886,+917385220694,prashant.chavan847@yahoo.com,Wagholi PS,Wagholi,20,5,Anti-Terrorism,Active
+PO-0061,Ashish Chavan,Police Constable,MH-PUN-62757,+918637377910,ashish.chavan553@rediffmail.com,Mundhwa PS,Keshav Nagar,25,19,General Duty,Off Duty
+PO-0062,Lalit Kale,Sub-Inspector,MH-PUN-40005,+916921155204,lalit.kale689@hotmail.com,Chandannagar PS,Wadgaon Sheri,15,24,Homicide,Active
+PO-0063,Madhuri Salve,ACP,MH-PUN-93202,+919197970787,madhuri.salve482@hotmail.com,Kothrud PS,Mayur Colony,90,10,Cybercrime,Off Duty
+PO-0064,Ajay Banerjee,Police Constable,MH-PUN-96846,+919973559879,ajay.banerjee779@outlook.com,Viman Nagar PS,Viman Nagar,121,2,Traffic,Active
+PO-0065,Pankaj Pandey,DCP,MH-PUN-64165,+916301415220,pankaj.pandey531@hotmail.com,Pimpri PS,Pimpri,165,14,General Duty,Active
+PO-0066,Sachin Singh,Sub-Inspector,MH-PUN-13783,+917862123506,sachin.singh163@hotmail.com,Viman Nagar PS,Lohegaon,8,17,Women & Child Safety,Active
+PO-0067,Vikram Chavan,DCP,MH-PUN-48254,+918546129354,vikram.chavan855@rediffmail.com,Shivajinagar PS,Ganeshkhind,67,14,Organized Crime,Active
+PO-0068,Kishore Pandey,Sub-Inspector,MH-PUN-46208,+919464938258,kishore.pandey957@outlook.com,Sinhagad Road PS,Dhayari,5,9,Anti-Terrorism,Off Duty
+PO-0069,Indira Kadam,DCP,MH-PUN-55236,+918692616814,indira.kadam782@outlook.com,Faraskhana PS,Somwar Peth,121,10,Narcotics,On Leave
+PO-0070,Durgesh Khaire,ACP,MH-PUN-15720,+918899621068,durgesh.khaire485@rediffmail.com,Deccan PS,Senapati Bapat Road,174,25,Homicide,Active
+PO-0071,Om Pandey,Senior Inspector,MH-PUN-23154,+919207064620,om.pandey539@rediffmail.com,Wanowrie PS,Wanowrie,189,4,Women & Child Safety,Off Duty
+PO-0072,Shaurya Verma,Senior Inspector,MH-PUN-91691,+919797756796,shaurya.verma83@hotmail.com,Talegaon PS,Talegaon,86,20,Economic Offenses,Off Duty
+PO-0073,Naresh Shinde,Police Constable,MH-PUN-39817,+916565973314,naresh.shinde101@gmail.com,Hadapsar PS,Handewadi,47,22,Anti-Terrorism,Off Duty
+PO-0074,Nikhil Shaikh,Police Constable,MH-PUN-56984,+918562446417,nikhil.shaikh150@yahoo.com,Warje Malwadi PS,Bavdhan,149,21,Homicide,Active
+PO-0075,Mohan Khaire,DCP,MH-PUN-86435,+917349310440,mohan.khaire473@hotmail.com,Hadapsar PS,Handewadi,70,21,General Duty,Off Duty
+PO-0076,Komal Wagh,Assistant Sub-Inspector,MH-PUN-19681,+919471048258,komal.wagh602@hotmail.com,Wagholi PS,Wagholi,181,8,Economic Offenses,Off Duty
+PO-0077,Mayank Qureshi,Sub-Inspector,MH-PUN-41091,+919714097318,mayank.qureshi368@outlook.com,Chinchwad PS,Akurdi,184,9,General Duty,On Leave
+PO-0078,Sneha Patil,Inspector,MH-PUN-89482,+919994253959,sneha.patil926@hotmail.com,Dehu Road PS,Dehu Road,160,25,Traffic,Active
+PO-0079,Naresh Kale,Sub-Inspector,MH-PUN-92242,+916431714152,naresh.kale808@rediffmail.com,Sinhagad Road PS,Sinhagad Road,153,11,Homicide,Active
+PO-0080,Nikhil Sheikh,Assistant Sub-Inspector,MH-PUN-36318,+917944511703,nikhil.sheikh553@hotmail.com,Chaturshrungi PS,Balewadi,133,8,Homicide,Active
+PO-0081,Durga Wagh,Sub-Inspector,MH-PUN-71385,+916251136695,durga.wagh773@yahoo.com,Sangvi PS,Sangvi,190,21,Women & Child Safety,On Leave
+PO-0082,Advait Shaikh,Inspector,MH-PUN-44663,+916588322781,advait.shaikh378@hotmail.com,Kondhwa PS,Mohammadwadi,102,20,Traffic,Active
+PO-0083,Sameer Deshmukh,Senior Inspector,MH-PUN-89964,+917795411453,sameer.deshmukh65@rediffmail.com,Yerawada PS,Yerwada,82,20,Women & Child Safety,Active
+PO-0084,Arjun Shelke,Sub-Inspector,MH-PUN-22739,+917677186272,arjun.shelke139@rediffmail.com,Viman Nagar PS,Dhanori,99,21,Organized Crime,Active
+PO-0085,Naveen Das,DCP,MH-PUN-90694,+919400368694,naveen.das34@hotmail.com,Koregaon Park PS,Koregaon Park,118,14,Narcotics,Off Duty
+PO-0086,Wasim Thorat,Senior Inspector,MH-PUN-17936,+919396225446,wasim.thorat195@gmail.com,Wagholi PS,Wagholi,28,21,Narcotics,Active
+PO-0087,Reyansh Shaikh,Head Constable,MH-PUN-26505,+917173669588,reyansh.shaikh850@outlook.com,Sangvi PS,Pimple Saudagar,155,6,Narcotics,Active
+PO-0088,Kishore Patil,Assistant Sub-Inspector,MH-PUN-27038,+918957397689,kishore.patil179@gmail.com,Hinjewadi PS,Hinjewadi,38,0,Traffic,Active
+PO-0089,Jagdish Ghodke,Assistant Sub-Inspector,MH-PUN-44782,+916236105947,jagdish.ghodke760@rediffmail.com,Chandannagar PS,Wadgaon Sheri,34,23,Cybercrime,Active
+PO-0090,Hemant Patel,DCP,MH-PUN-76039,+917760465943,hemant.patel45@outlook.com,Koregaon Park PS,Boat Club Road,122,20,General Duty,Active
+PO-0091,Hema Bhandari,Sub-Inspector,MH-PUN-74260,+919178910051,hema.bhandari921@gmail.com,Dattawadi PS,Dattawadi,160,4,Cybercrime,Active
+PO-0092,Pranav Iyer,Police Constable,MH-PUN-69469,+919206492059,pranav.iyer813@gmail.com,Vishrantwadi PS,Vishrantwadi,115,14,Narcotics,Active
+PO-0093,Aparna Sharma,Senior Inspector,MH-PUN-65936,+918814154134,aparna.sharma262@hotmail.com,Koregaon Park PS,Koregaon Park,180,15,Cybercrime,Active
+PO-0094,Advait Gupta,Senior Inspector,MH-PUN-27054,+916729712082,advait.gupta980@outlook.com,Koregaon Park PS,Boat Club Road,176,3,Women & Child Safety,Active
+PO-0095,Indira Bose,Police Constable,MH-PUN-88696,+918477577220,indira.bose107@outlook.com,Warje Malwadi PS,Warje,44,21,Economic Offenses,Active
+PO-0096,Harsh Qureshi,Senior Inspector,MH-PUN-25058,+918716435189,harsh.qureshi232@rediffmail.com,Yerawada PS,Yerwada,164,19,Organized Crime,Active
+PO-0097,Vihaan Sawant,Police Constable,MH-PUN-54541,+918106556040,vihaan.sawant186@yahoo.com,Hinjewadi PS,Maan,22,4,General Duty,Active
+PO-0098,Pranav Sharma,Senior Inspector,MH-PUN-30631,+918434618074,pranav.sharma739@hotmail.com,Mundhwa PS,Mundhwa,18,4,Homicide,Active
+PO-0099,Vinod More,DCP,MH-PUN-96761,+919621475287,vinod.more622@rediffmail.com,Hinjewadi PS,Maan,74,6,Organized Crime,Active
+PO-0100,Priya Wagh,DCP,MH-PUN-79066,+918148766522,priya.wagh226@rediffmail.com,Wanowrie PS,Wanowrie,6,6,Anti-Terrorism,Off Duty
+PO-0101,Dinesh Wagh,Sub-Inspector,MH-PUN-11013,+919902100304,dinesh.wagh441@yahoo.com,Bundgarden PS,Bund Garden,102,17,Narcotics,Active
+PO-0102,Shaurya Bhandari,ACP,MH-PUN-12456,+919183604337,shaurya.bhandari883@hotmail.com,Swargate PS,Market Yard,151,12,Women & Child Safety,Active
+PO-0103,Ananya Ghodke,DCP,MH-PUN-57428,+916568915703,ananya.ghodke865@gmail.com,Saswad PS,Saswad,116,18,Women & Child Safety,Active
+PO-0104,Indira Shelke,Head Constable,MH-PUN-53655,+917182011731,indira.shelke523@gmail.com,Sangvi PS,Sangvi,135,6,Traffic,Active
+PO-0105,Rajesh Pawar,Police Constable,MH-PUN-35856,+917746820987,rajesh.pawar157@gmail.com,Shivajinagar PS,University Road,165,15,Economic Offenses,Active
+PO-0106,Radha Shah,Senior Inspector,MH-PUN-29786,+919173321814,radha.shah481@rediffmail.com,Bundgarden PS,Sassoon Road,82,25,Anti-Terrorism,Active
+PO-0107,Hitesh Shinde,DCP,MH-PUN-69233,+916161085229,hitesh.shinde378@hotmail.com,Nigdi PS,Nigdi,170,2,Intelligence,Active
+PO-0108,Suman Patel,Inspector,MH-PUN-68947,+917445236735,suman.patel620@rediffmail.com,Yerawada PS,Yerwada,43,1,Economic Offenses,Active
+PO-0109,Atharva Pandey,Inspector,MH-PUN-42472,+919571825556,atharva.pandey537@outlook.com,Kothrud PS,Dahanukar Colony,45,11,Traffic,Off Duty
+PO-0110,Smita Ansari,Inspector,MH-PUN-92691,+918170772317,smita.ansari338@gmail.com,Sangvi PS,Sangvi,178,12,Anti-Terrorism,Active
+PO-0111,Siddharth More,Assistant Sub-Inspector,MH-PUN-55851,+918804433388,siddharth.more716@rediffmail.com,Wanowrie PS,Wanowrie,157,22,Cybercrime,Active
+PO-0112,Padma Shaikh,Assistant Sub-Inspector,MH-PUN-97833,+916793663866,padma.shaikh687@rediffmail.com,Sangvi PS,Sangvi,97,0,Traffic,Active
+PO-0113,Akash Ansari,Head Constable,MH-PUN-39693,+917266371119,akash.ansari80@hotmail.com,Viman Nagar PS,Viman Nagar,134,24,Organized Crime,Off Duty
+PO-0114,Tejas Nikam,ACP,MH-PUN-30218,+917294181873,tejas.nikam852@outlook.com,Sinhagad Road PS,Vadgaon Budruk,189,14,General Duty,Active
+PO-0115,Ashish Nair,DCP,MH-PUN-40671,+917432288618,ashish.nair989@rediffmail.com,Sahakarnagar PS,Sahakarnagar,99,21,Intelligence,On Leave
+PO-0116,Bhavana Wagh,ACP,MH-PUN-31241,+917960345542,bhavana.wagh620@yahoo.com,Vishrambaug PS,Narayan Peth,18,20,Economic Offenses,Off Duty
+PO-0117,Ramesh Qureshi,Police Constable,MH-PUN-20993,+917392907427,ramesh.qureshi461@outlook.com,Chatushrungi PS,Pashan,116,2,Narcotics,Off Duty
+PO-0118,Vihaan Sharma,ACP,MH-PUN-75799,+918353164777,vihaan.sharma396@gmail.com,Warje Malwadi PS,Bavdhan,62,0,Traffic,Off Duty
+PO-0119,Raj Bhosale,Police Constable,MH-PUN-71925,+917914799481,raj.bhosale723@rediffmail.com,Swargate PS,Market Yard,162,0,Cybercrime,Active
+PO-0120,Amit Mehta,ACP,MH-PUN-24573,+918355164255,amit.mehta309@gmail.com,Vishrantwadi PS,Khadki,66,13,Intelligence,Active
+PO-0121,Mohit Iyer,Inspector,MH-PUN-92831,+917871531100,mohit.iyer148@hotmail.com,Wagholi PS,Wagholi,5,19,Traffic,Active
+PO-0122,Pooja Roy,Senior Inspector,MH-PUN-18870,+916519246503,pooja.roy895@rediffmail.com,Alandi PS,Alandi,167,12,Traffic,Active
+PO-0123,Gaurav Shaikh,Senior Inspector,MH-PUN-41604,+916928393291,gaurav.shaikh596@hotmail.com,Lashkar PS,Camp,16,11,Organized Crime,Active
+PO-0124,Wasim Kumar,Assistant Sub-Inspector,MH-PUN-27675,+916868847524,wasim.kumar795@rediffmail.com,Chinchwad PS,Chinchwad,80,6,General Duty,Active
+PO-0125,Rohan Shelke,ACP,MH-PUN-81176,+919371993587,rohan.shelke38@yahoo.com,Bharati Vidyapeeth PS,Bharati Vidyapeeth,96,24,General Duty,Off Duty
+PO-0126,Ganesh Chavan,ACP,MH-PUN-62431,+919515156661,ganesh.chavan348@yahoo.com,Bibvewadi PS,Upper Indira Nagar,182,15,Traffic,Off Duty
+PO-0127,Atharva Bose,Sub-Inspector,MH-PUN-66440,+917685698675,atharva.bose301@hotmail.com,Dattawadi PS,Parvati,25,10,Anti-Terrorism,Active
+PO-0128,Neha Banerjee,Senior Inspector,MH-PUN-68606,+916880411013,neha.banerjee891@hotmail.com,Faraskhana PS,Shukrawar Peth,116,8,General Duty,Active
+PO-0129,Shruti Pandey,Inspector,MH-PUN-28714,+919137365109,shruti.pandey130@gmail.com,Saswad PS,Saswad,170,11,Traffic,Active
+PO-0130,Lalit Kadam,Senior Inspector,MH-PUN-58760,+919919355714,lalit.kadam79@outlook.com,Faraskhana PS,Kasba Peth,140,11,Women & Child Safety,Active
+PO-0131,Mukesh Chavan,Assistant Sub-Inspector,MH-PUN-75410,+919703091482,mukesh.chavan121@hotmail.com,Chandannagar PS,Chandan Nagar,185,14,Narcotics,On Leave
+PO-0132,Zaheer Tiwari,Sub-Inspector,MH-PUN-27790,+916585377142,zaheer.tiwari177@rediffmail.com,Lonavala PS,Lonavala,179,10,Traffic,Active
+PO-0133,Vishal Qureshi,Assistant Sub-Inspector,MH-PUN-57381,+917230311939,vishal.qureshi206@yahoo.com,Saswad PS,Saswad,131,0,Traffic,Active
+PO-0134,Vikram Mulani,Assistant Sub-Inspector,MH-PUN-90209,+916170596494,vikram.mulani317@rediffmail.com,Yerawada PS,Yerwada,189,15,Organized Crime,Active
+PO-0135,Ekta Shah,Assistant Sub-Inspector,MH-PUN-51553,+916583156434,ekta.shah478@outlook.com,Lashkar PS,MG Road,37,24,Organized Crime,Active
+PO-0136,Om Gupta,Inspector,MH-PUN-26274,+917426551245,om.gupta169@yahoo.com,Bharati Vidyapeeth PS,Bharati Vidyapeeth,186,7,Traffic,Off Duty
+PO-0137,Atharva Kale,Police Constable,MH-PUN-26406,+918759737342,atharva.kale547@gmail.com,Lonavala PS,Lonavala,156,18,Homicide,Active
+PO-0138,Chetan Jadhav,Sub-Inspector,MH-PUN-15958,+918799145494,chetan.jadhav216@outlook.com,Chandannagar PS,Chandan Nagar,163,20,General Duty,Active
+PO-0139,Rupesh Shelke,Head Constable,MH-PUN-99783,+919419367188,rupesh.shelke465@gmail.com,Chinchwad PS,Pradhikaran,20,5,Economic Offenses,Active
+PO-0140,Anjali Nikam,Senior Inspector,MH-PUN-51853,+918528118701,anjali.nikam134@hotmail.com,Shivajinagar PS,Gokhale Nagar,148,3,Traffic,Active
+PO-0141,Ganesh Singh,Assistant Sub-Inspector,MH-PUN-22689,+916411612760,ganesh.singh969@rediffmail.com,Hadapsar PS,Uruli Kanchan,68,5,Traffic,Off Duty
+PO-0142,Sanjay Khan,DCP,MH-PUN-77466,+919635539154,sanjay.khan901@hotmail.com,Saswad PS,Saswad,10,2,Women & Child Safety,Active
+PO-0143,Deepak Patel,Inspector,MH-PUN-16624,+918631388604,deepak.patel612@rediffmail.com,Chakan PS,Chakan,142,0,Cybercrime,Active
+PO-0144,Varun Khan,Senior Inspector,MH-PUN-15930,+919154930149,varun.khan584@outlook.com,Kondhwa PS,NIBM,97,17,Anti-Terrorism,Active
+PO-0145,Archana Mehta,Sub-Inspector,MH-PUN-26864,+916522950895,archana.mehta383@hotmail.com,Hinjewadi PS,Tathawade,198,4,Narcotics,Active
+PO-0146,Sarita Jadhav,Inspector,MH-PUN-27961,+918963251765,sarita.jadhav486@outlook.com,Swargate PS,Market Yard,43,19,Organized Crime,Active
+PO-0147,Rahul Bhandari,Senior Inspector,MH-PUN-76494,+919861003571,rahul.bhandari577@hotmail.com,Nigdi PS,Bhosari,9,11,Traffic,Active
+PO-0148,Rita Shelke,DCP,MH-PUN-44803,+917874597473,rita.shelke53@outlook.com,Chandannagar PS,Chandan Nagar,48,16,Intelligence,Active
+PO-0149,Kavita Pathan,Inspector,MH-PUN-85047,+916304853117,kavita.pathan20@rediffmail.com,Hadapsar PS,Loni Kalbhor,112,4,Women & Child Safety,Active
+PO-0150,Sarita Ansari,Inspector,MH-PUN-28098,+917702247585,sarita.ansari333@rediffmail.com,Chinchwad PS,Pradhikaran,101,10,Homicide,Active
+PO-0151,Sandip Suryawanshi,DCP,MH-PUN-35200,+917399580835,sandip.suryawanshi572@hotmail.com,Talegaon PS,Talegaon,81,24,Anti-Terrorism,Active
+PO-0152,Kiran Verma,Police Constable,MH-PUN-47721,+916715766024,kiran.verma693@outlook.com,Chakan PS,Chakan,106,11,Homicide,Active
+PO-0153,Atharva Suryawanshi,Police Constable,MH-PUN-72793,+917316968866,atharva.suryawanshi848@outlook.com,Faraskhana PS,Somwar Peth,148,22,Anti-Terrorism,Active
+PO-0154,Mukesh Kulkarni,Head Constable,MH-PUN-93616,+917156361897,mukesh.kulkarni103@rediffmail.com,Vishrantwadi PS,Range Hills,188,15,Cybercrime,Active
+PO-0155,Aarav Mehta,ACP,MH-PUN-95575,+919612656440,aarav.mehta667@yahoo.com,Saswad PS,Saswad,87,9,General Duty,Off Duty
+PO-0156,Shekhar Shah,Inspector,MH-PUN-32946,+919999371401,shekhar.shah181@gmail.com,Deccan PS,Prabhat Road,106,25,Economic Offenses,Active
+PO-0157,Arjun Patil,Sub-Inspector,MH-PUN-53914,+918587853601,arjun.patil657@outlook.com,Nigdi PS,Ravet,131,4,Organized Crime,Active
+PO-0158,Arnav Nikam,DCP,MH-PUN-94972,+918871588919,arnav.nikam191@gmail.com,Saswad PS,Saswad,80,18,Narcotics,Active
+PO-0159,Ekta Gupta,Senior Inspector,MH-PUN-21368,+919818608005,ekta.gupta98@yahoo.com,Bharati Vidyapeeth PS,Dhankawadi,127,10,Narcotics,Active
+PO-0160,Shweta Singh,Senior Inspector,MH-PUN-49576,+916380840558,shweta.singh670@hotmail.com,Hinjewadi PS,Wakad,20,21,Cybercrime,Active
+PO-0161,Pankaj Ghosh,Police Constable,MH-PUN-25389,+918494647257,pankaj.ghosh630@yahoo.com,Bharati Vidyapeeth PS,Dhankawadi,39,15,Homicide,Active
+PO-0162,Naveen Banerjee,DCP,MH-PUN-80453,+917918040539,naveen.banerjee254@outlook.com,Yerawada PS,Yerawada,139,14,Organized Crime,Active
+PO-0163,Chetan Chavan,Head Constable,MH-PUN-85065,+917276670424,chetan.chavan336@outlook.com,Warje Malwadi PS,Bavdhan,34,21,Narcotics,Active
+PO-0164,Ira Pandey,Inspector,MH-PUN-69432,+917651095672,ira.pandey426@rediffmail.com,Faraskhana PS,Shukrawar Peth,19,17,Economic Offenses,Active
+PO-0165,Aditya Bhandari,Inspector,MH-PUN-38560,+916148629555,aditya.bhandari434@hotmail.com,Talegaon PS,Talegaon,143,1,Cybercrime,On Leave
+PO-0166,Diya Wagh,Assistant Sub-Inspector,MH-PUN-27750,+919502074351,diya.wagh913@rediffmail.com,Chaturshrungi PS,Baner,101,12,Cybercrime,Active
+PO-0167,Shekhar Suryawanshi,Assistant Sub-Inspector,MH-PUN-80419,+919667840357,shekhar.suryawanshi131@yahoo.com,Chatushrungi PS,Pashan,198,0,Anti-Terrorism,Active
+PO-0168,Renu Khaire,Head Constable,MH-PUN-70375,+918266560311,renu.khaire283@yahoo.com,Deccan PS,Erandwane,200,3,General Duty,Off Duty
+PO-0169,Sangeeta Ansari,Head Constable,MH-PUN-37011,+916208337018,sangeeta.ansari609@gmail.com,Chandannagar PS,Chandan Nagar,158,21,General Duty,Active
+PO-0170,Pankaj Singh,Head Constable,MH-PUN-17398,+917641054044,pankaj.singh297@yahoo.com,Deccan PS,Prabhat Road,192,18,Traffic,Active
+PO-0171,Rajesh Shelke,Head Constable,MH-PUN-64206,+918395444277,rajesh.shelke63@outlook.com,Shivajinagar PS,Gokhale Nagar,193,5,Women & Child Safety,Active
+PO-0172,Harsh Das,Senior Inspector,MH-PUN-64568,+919260221190,harsh.das308@rediffmail.com,Vishrambaug PS,Sadashiv Peth,198,17,Economic Offenses,Active
+PO-0173,Vishal Qureshi,DCP,MH-PUN-17552,+919547221915,vishal.qureshi571@outlook.com,Shivajinagar PS,University Road,104,7,Anti-Terrorism,Active
+PO-0174,Abhishek Qureshi,Sub-Inspector,MH-PUN-80206,+917155337035,abhishek.qureshi275@rediffmail.com,Bibvewadi PS,Bibvewadi,23,6,Intelligence,Active
+PO-0175,Nishant Joshi,Police Constable,MH-PUN-12009,+917304036387,nishant.joshi986@gmail.com,Sangvi PS,Sangvi,198,15,Narcotics,Active
+PO-0176,Manish Mane,Senior Inspector,MH-PUN-47101,+919600632621,manish.mane547@hotmail.com,Yerawada PS,Kalyani Nagar,71,11,Organized Crime,Off Duty
+PO-0177,Avni Mulani,Senior Inspector,MH-PUN-36624,+918435997460,avni.mulani424@gmail.com,Chinchwad PS,Pradhikaran,61,23,Homicide,Active
+PO-0178,Pallavi Kadam,Senior Inspector,MH-PUN-40149,+919711806831,pallavi.kadam854@yahoo.com,Lonavala PS,Lonavala,145,20,Traffic,Active
+PO-0179,Varsha Das,DCP,MH-PUN-32050,+918281747678,varsha.das144@outlook.com,Viman Nagar PS,Dhanori,52,17,General Duty,Active
+PO-0180,Umesh Kulkarni,ACP,MH-PUN-28021,+917172980019,umesh.kulkarni725@yahoo.com,Pimpri PS,Dapodi,60,16,Economic Offenses,Active
+PO-0181,Lakshmi Tiwari,Inspector,MH-PUN-79758,+919112724887,lakshmi.tiwari18@outlook.com,Chandannagar PS,Wadgaon Sheri,75,17,Anti-Terrorism,Active
+PO-0182,Durga Sawant,Sub-Inspector,MH-PUN-78732,+917358738317,durga.sawant197@outlook.com,Koregaon Park PS,Boat Club Road,95,8,Women & Child Safety,Active
+PO-0183,Suman Shah,Head Constable,MH-PUN-49318,+916801943382,suman.shah879@gmail.com,Hadapsar PS,Magarpatta,108,12,Women & Child Safety,Active
+PO-0184,Paresh Patil,Sub-Inspector,MH-PUN-75517,+919792463878,paresh.patil804@hotmail.com,Saswad PS,Saswad,140,1,Narcotics,Active
+PO-0185,Sneha Jadhav,Police Constable,MH-PUN-81176,+916292580427,sneha.jadhav952@hotmail.com,Lashkar PS,Camp,58,18,Homicide,Active
+PO-0186,Nandini Shinde,Assistant Sub-Inspector,MH-PUN-83919,+917708485104,nandini.shinde855@rediffmail.com,Nigdi PS,Ravet,143,10,Women & Child Safety,Active
+PO-0187,Zaheer Bose,Senior Inspector,MH-PUN-17038,+916569319938,zaheer.bose238@gmail.com,Alandi PS,Alandi,159,24,Intelligence,On Leave
+PO-0188,Bhavana Ghodke,Police Constable,MH-PUN-69054,+919344961731,bhavana.ghodke365@outlook.com,Chandannagar PS,Chandan Nagar,115,5,Intelligence,Active
+PO-0189,Naresh Wagh,Sub-Inspector,MH-PUN-20752,+918265593497,naresh.wagh390@yahoo.com,Hadapsar PS,Uruli Kanchan,86,11,Cybercrime,Active
+PO-0190,Ashish Thorat,Sub-Inspector,MH-PUN-27367,+916301210399,ashish.thorat442@rediffmail.com,Hinjewadi PS,Maan,31,0,Cybercrime,Active
+PO-0191,Kishore Iyer,ACP,MH-PUN-11617,+918544325176,kishore.iyer398@gmail.com,Bundgarden PS,Sassoon Road,148,7,Intelligence,Active
+PO-0192,Neha Bhosale,Police Constable,MH-PUN-45180,+919256696327,neha.bhosale65@yahoo.com,Hinjewadi PS,Maan,75,13,Anti-Terrorism,Active
+PO-0193,Varun Kale,DCP,MH-PUN-87831,+917591625191,varun.kale110@yahoo.com,Hadapsar PS,Phursungi,6,12,Traffic,Off Duty
+PO-0194,Durga Nikam,Senior Inspector,MH-PUN-66441,+917422589929,durga.nikam329@outlook.com,Faraskhana PS,Shukrawar Peth,56,15,Traffic,Active
+PO-0195,Kiran Wagh,Head Constable,MH-PUN-52714,+919400969989,kiran.wagh837@rediffmail.com,Viman Nagar PS,Dhanori,34,18,Narcotics,Active
+PO-0196,Wasim Ansari,Inspector,MH-PUN-70505,+917570787423,wasim.ansari817@hotmail.com,Yerawada PS,Yerwada,22,25,Women & Child Safety,Active
+PO-0197,Paresh Shelke,Police Constable,MH-PUN-96332,+917867979226,paresh.shelke434@rediffmail.com,Hadapsar PS,Magarpatta,119,19,Economic Offenses,Active
+PO-0198,Renu Jadhav,Sub-Inspector,MH-PUN-24335,+917806094391,renu.jadhav681@hotmail.com,Bibvewadi PS,Bibvewadi,170,19,General Duty,Active
+PO-0199,Archana Nikam,Sub-Inspector,MH-PUN-11382,+916377818215,archana.nikam228@outlook.com,Dattawadi PS,Parvati,119,11,Women & Child Safety,Active
+PO-0200,Harsh Deshmukh,Sub-Inspector,MH-PUN-48722,+919192185888,harsh.deshmukh119@yahoo.com,Chinchwad PS,Akurdi,84,10,Economic Offenses,Active
+PO-0201,Rashmi Verma,DCP,MH-PUN-69303,+918172127903,rashmi.verma308@gmail.com,Koregaon Park PS,Koregaon Park,10,10,Cybercrime,Active
+PO-0202,Mukesh Dubey,Assistant Sub-Inspector,MH-PUN-53383,+919596126873,mukesh.dubey238@rediffmail.com,Kothrud PS,Karvenagar,52,20,Women & Child Safety,Active
+PO-0203,Abhishek Patel,ACP,MH-PUN-10583,+917320959407,abhishek.patel286@gmail.com,Dattawadi PS,Parvati,142,5,Traffic,Active
+PO-0204,Priya Kale,Senior Inspector,MH-PUN-88246,+919756387421,priya.kale402@outlook.com,Viman Nagar PS,Viman Nagar,94,11,Economic Offenses,Active
+PO-0205,Mohan Patel,Assistant Sub-Inspector,MH-PUN-51049,+916356165519,mohan.patel313@gmail.com,Alandi PS,Alandi,100,22,Homicide,Active
+PO-0206,Anita Bhosale,ACP,MH-PUN-65448,+917622558165,anita.bhosale651@outlook.com,Dehu Road PS,Dehu Road,147,5,Economic Offenses,Active
+PO-0207,Rohan Syed,Inspector,MH-PUN-57059,+916620344871,rohan.syed140@yahoo.com,Faraskhana PS,Somwar Peth,148,16,Economic Offenses,Active
+PO-0208,Smita Sen,DCP,MH-PUN-31922,+916707091264,smita.sen32@yahoo.com,Faraskhana PS,Somwar Peth,13,8,Narcotics,Active
+PO-0209,Prateek Shah,Sub-Inspector,MH-PUN-85066,+916387643522,prateek.shah794@outlook.com,Viman Nagar PS,Dhanori,143,24,General Duty,Active
+PO-0210,Renu Joshi,Sub-Inspector,MH-PUN-95678,+917419662531,renu.joshi896@gmail.com,Dattawadi PS,Dattawadi,72,11,Cybercrime,Active
+PO-0211,Rajesh Joshi,Senior Inspector,MH-PUN-89988,+919278221407,rajesh.joshi631@yahoo.com,Wanowrie PS,Wanowrie,57,25,General Duty,Active
+PO-0212,Kishore Mishra,Senior Inspector,MH-PUN-48356,+918714970148,kishore.mishra274@outlook.com,Saswad PS,Saswad,39,24,Women & Child Safety,Off Duty
+PO-0213,Shekhar Bhosale,Head Constable,MH-PUN-29168,+918989575564,shekhar.bhosale254@rediffmail.com,Sinhagad Road PS,Nanded,41,18,Anti-Terrorism,Active
+PO-0214,Geeta Shinde,ACP,MH-PUN-77582,+918845932321,geeta.shinde959@hotmail.com,Alandi PS,Alandi,129,10,Intelligence,Active
+PO-0215,Prateek Reddy,Sub-Inspector,MH-PUN-80048,+919333893106,prateek.reddy992@rediffmail.com,Chakan PS,Chakan,131,8,Traffic,Off Duty
+PO-0216,Pravin Shah,DCP,MH-PUN-55054,+916149330844,pravin.shah102@rediffmail.com,Sinhagad Road PS,Sinhagad Road,36,5,Economic Offenses,Active
+PO-0217,Swati Banerjee,Police Constable,MH-PUN-30837,+918200223044,swati.banerjee671@hotmail.com,Sinhagad Road PS,Dhayari,26,11,Homicide,Active
+PO-0218,Imran Khan,ACP,MH-PUN-95915,+916855590022,imran.khan98@gmail.com,Deccan PS,FC Road,127,2,Homicide,Active
+PO-0219,Aadhya Patil,Sub-Inspector,MH-PUN-65353,+917612926731,aadhya.patil73@yahoo.com,Sangvi PS,Pimple Nilakh,27,23,Cybercrime,Active
+PO-0220,Vishal Bhosale,Assistant Sub-Inspector,MH-PUN-94092,+917173456403,vishal.bhosale544@outlook.com,Vishrambaug PS,Sadashiv Peth,161,20,Homicide,Active
+PO-0221,Omkar Sheikh,ACP,MH-PUN-90750,+919333264702,omkar.sheikh89@gmail.com,Shivajinagar PS,University Road,197,3,Intelligence,Active
+PO-0222,Prashant Ghodke,Head Constable,MH-PUN-46302,+916366467312,prashant.ghodke567@outlook.com,Sinhagad Road PS,Dhayari,181,0,Anti-Terrorism,Active
+PO-0223,Manish Wagh,Head Constable,MH-PUN-74865,+919221057584,manish.wagh247@rediffmail.com,Warje Malwadi PS,Warje,140,0,Traffic,Off Duty
+PO-0224,Mayank Syed,ACP,MH-PUN-57895,+917918970742,mayank.syed483@gmail.com,Dehu Road PS,Dehu Road,155,2,General Duty,Active
+PO-0225,Krishna Shaikh,Police Constable,MH-PUN-92388,+919554810443,krishna.shaikh719@rediffmail.com,Kondhwa PS,Kondhwa,168,17,Organized Crime,Active
+PO-0226,Atharva Shelke,Head Constable,MH-PUN-30365,+918519544755,atharva.shelke601@gmail.com,Alandi PS,Alandi,183,13,Narcotics,Active
+PO-0227,Santosh Chavan,Inspector,MH-PUN-50539,+917228250953,santosh.chavan13@yahoo.com,Mundhwa PS,Mundhwa,46,15,Traffic,Active
+PO-0228,Sunil Thorat,Police Constable,MH-PUN-25473,+916459715348,sunil.thorat827@rediffmail.com,Sinhagad Road PS,Dhayari,139,2,Anti-Terrorism,Active
+PO-0229,Mohit Kumar,Senior Inspector,MH-PUN-17266,+919708689346,mohit.kumar171@hotmail.com,Bharati Vidyapeeth PS,Dhankawadi,70,24,Cybercrime,Off Duty
+PO-0230,Suresh Sheikh,Inspector,MH-PUN-15772,+916362585121,suresh.sheikh48@rediffmail.com,Bharati Vidyapeeth PS,Bharati Vidyapeeth,103,4,Homicide,Off Duty
+PO-0231,Pravin Mulani,Head Constable,MH-PUN-52179,+917546952114,pravin.mulani938@hotmail.com,Chaturshrungi PS,Baner,24,18,Traffic,Active
+PO-0232,Vijay Deshpande,Inspector,MH-PUN-62550,+916599391065,vijay.deshpande887@hotmail.com,Vishrantwadi PS,Range Hills,88,2,Organized Crime,Active
+PO-0233,Ravi Wagh,Police Constable,MH-PUN-91620,+917598137488,ravi.wagh378@outlook.com,Dehu Road PS,Dehu Road,55,23,Organized Crime,Active
+PO-0234,Amit Patil,Inspector,MH-PUN-40539,+918782837348,amit.patil860@gmail.com,Chaturshrungi PS,Baner,5,24,Women & Child Safety,Off Duty
+PO-0235,Kabir Joshi,Head Constable,MH-PUN-65026,+919164311845,kabir.joshi996@yahoo.com,Vishrantwadi PS,Range Hills,28,1,Narcotics,Off Duty
+PO-0236,Sita Thorat,Sub-Inspector,MH-PUN-86122,+916642698931,sita.thorat137@rediffmail.com,Mundhwa PS,Mundhwa,156,18,General Duty,Active
+PO-0237,Rajesh Wagh,Senior Inspector,MH-PUN-61505,+918441511874,rajesh.wagh464@hotmail.com,Talegaon PS,Talegaon,24,6,Homicide,Active
+PO-0238,Amit Pawar,DCP,MH-PUN-71086,+918536489528,amit.pawar124@outlook.com,Saswad PS,Saswad,58,14,Anti-Terrorism,Active
+PO-0239,Advait Gaikwad,Inspector,MH-PUN-38183,+918259261469,advait.gaikwad94@yahoo.com,Nigdi PS,Bhosari,106,16,General Duty,Active
+PO-0240,Vijay Deshmukh,DCP,MH-PUN-82869,+917201710492,vijay.deshmukh474@gmail.com,Kondhwa PS,NIBM,36,0,General Duty,Off Duty
+PO-0241,Om Yadav,Senior Inspector,MH-PUN-99952,+916725265416,om.yadav601@hotmail.com,Kondhwa PS,Kondhwa,10,2,Narcotics,Off Duty
+PO-0242,Durga Bhosale,Senior Inspector,MH-PUN-26059,+916594989531,durga.bhosale52@yahoo.com,Alandi PS,Alandi,190,12,Economic Offenses,Active
+PO-0243,Pooja Suryawanshi,Assistant Sub-Inspector,MH-PUN-46042,+918578901124,pooja.suryawanshi905@yahoo.com,Khadak PS,Budhwar Peth,162,19,Intelligence,Active
+PO-0244,Mohit Sharma,DCP,MH-PUN-17992,+916400407178,mohit.sharma393@yahoo.com,Yerawada PS,Kalyani Nagar,56,20,Organized Crime,Active
+PO-0245,Pranav Shaikh,DCP,MH-PUN-81371,+919469403820,pranav.shaikh935@outlook.com,Chakan PS,Chakan,104,8,Homicide,Active
+PO-0246,Vihaan Mulani,Inspector,MH-PUN-71824,+918923390510,vihaan.mulani599@yahoo.com,Hinjewadi PS,Wakad,30,7,Narcotics,Active
+PO-0247,Manoj Shah,Senior Inspector,MH-PUN-32768,+917353994846,manoj.shah607@hotmail.com,Vishrambaug PS,Tilak Road,183,11,Intelligence,Active
+PO-0248,Chetan Shah,Head Constable,MH-PUN-74517,+918288502642,chetan.shah503@gmail.com,Shivajinagar PS,Shivajinagar,19,7,Intelligence,Active
+PO-0249,Aadhya Nikam,Assistant Sub-Inspector,MH-PUN-54663,+917961596686,aadhya.nikam865@hotmail.com,Lonavala PS,Lonavala,10,4,Intelligence,Active
+PO-0250,Arnav Qureshi,Senior Inspector,MH-PUN-19506,+918856491925,arnav.qureshi965@rediffmail.com,Vishrantwadi PS,Khadki,91,9,Traffic,Active
+PO-0251,Santosh Shaikh,Senior Inspector,MH-PUN-32833,+918339699130,santosh.shaikh682@outlook.com,Viman Nagar PS,Viman Nagar,101,9,Anti-Terrorism,Active
+PO-0252,Imran Shah,Inspector,MH-PUN-33865,+918968449816,imran.shah991@outlook.com,Kondhwa PS,NIBM,168,18,Cybercrime,Off Duty
+PO-0253,Siddharth Sheikh,Head Constable,MH-PUN-55457,+918280267742,siddharth.sheikh652@gmail.com,Lashkar PS,East Street,176,20,Traffic,Active
+PO-0254,Prakash Mane,Senior Inspector,MH-PUN-43640,+916873538202,prakash.mane2@gmail.com,Lashkar PS,MG Road,117,23,Women & Child Safety,On Leave
+PO-0255,Vandana Khaire,ACP,MH-PUN-23294,+919946892378,vandana.khaire885@outlook.com,Chakan PS,Chakan,46,14,Cybercrime,Active
+PO-0256,Tushar Deshmukh,Police Constable,MH-PUN-23726,+916467013765,tushar.deshmukh175@rediffmail.com,Bundgarden PS,Bund Garden,192,2,Organized Crime,Off Duty
+PO-0257,Akash Iyer,Inspector,MH-PUN-66534,+917752102334,akash.iyer912@rediffmail.com,Chinchwad PS,Chinchwad,18,3,Traffic,Active
+PO-0258,Ajay Banerjee,Police Constable,MH-PUN-96585,+918419331516,ajay.banerjee244@gmail.com,Yerawada PS,Yerawada,105,18,Organized Crime,Off Duty
+PO-0259,Reyansh Thorat,ACP,MH-PUN-21485,+918984652998,reyansh.thorat678@outlook.com,Pimpri PS,Pimpri,56,3,General Duty,Active
+PO-0260,Atharva Verma,Police Constable,MH-PUN-62096,+919625163699,atharva.verma917@hotmail.com,Chatushrungi PS,Pashan,169,17,Women & Child Safety,Active
+PO-0261,Shruti Sawant,Inspector,MH-PUN-44510,+919599352182,shruti.sawant270@yahoo.com,Faraskhana PS,Somwar Peth,149,1,Homicide,Active
+PO-0262,Atharva Roy,ACP,MH-PUN-87296,+917694425527,atharva.roy63@rediffmail.com,Chakan PS,Chakan,142,21,Economic Offenses,Active
+PO-0263,Sameer Shelke,ACP,MH-PUN-14551,+917229151674,sameer.shelke973@rediffmail.com,Alandi PS,Alandi,47,6,Narcotics,Active
+PO-0264,Ira Ghosh,Head Constable,MH-PUN-92211,+917995616775,ira.ghosh610@hotmail.com,Dattawadi PS,Dattawadi,191,25,Cybercrime,Active
+PO-0265,Asha Ghodke,DCP,MH-PUN-11620,+919220816186,asha.ghodke425@yahoo.com,Hinjewadi PS,Wakad,150,18,Intelligence,Active
+PO-0266,Kabir Shah,Police Constable,MH-PUN-80206,+918541189818,kabir.shah271@rediffmail.com,Koregaon Park PS,Boat Club Road,151,19,Economic Offenses,Active
+PO-0267,Pankaj Kadam,Inspector,MH-PUN-61877,+918841433502,pankaj.kadam244@gmail.com,Kondhwa PS,Pisoli,126,8,Traffic,Active
+PO-0268,Kunal Salve,Sub-Inspector,MH-PUN-39878,+917422638422,kunal.salve998@rediffmail.com,Viman Nagar PS,Dhanori,73,23,Women & Child Safety,Active
+PO-0269,Sanjay Singh,ACP,MH-PUN-73499,+918981560713,sanjay.singh58@outlook.com,Khadak PS,Budhwar Peth,21,9,Organized Crime,Active
+PO-0270,Vijay Yadav,Inspector,MH-PUN-42701,+916590108029,vijay.yadav52@hotmail.com,Lonavala PS,Lonavala,75,11,Economic Offenses,Active
+PO-0271,Wasim Deshmukh,Senior Inspector,MH-PUN-74066,+919290679038,wasim.deshmukh984@rediffmail.com,Hadapsar PS,Loni Kalbhor,93,5,Anti-Terrorism,Active
+PO-0272,Sachin Deshmukh,Inspector,MH-PUN-31352,+917337673911,sachin.deshmukh663@yahoo.com,Vishrambaug PS,Tilak Road,57,8,Women & Child Safety,Active
+PO-0273,Sameer Bhosale,Inspector,MH-PUN-39329,+918753204271,sameer.bhosale825@hotmail.com,Kothrud PS,Bhusari Colony,113,12,Traffic,Active
+PO-0274,Vikram Shelke,ACP,MH-PUN-86609,+916107889398,vikram.shelke524@hotmail.com,Vishrantwadi PS,Range Hills,81,21,Cybercrime,Active
+PO-0275,Nilesh Reddy,Police Constable,MH-PUN-44229,+918302250101,nilesh.reddy154@outlook.com,Bundgarden PS,Bund Garden,19,25,Intelligence,Active
+PO-0276,Wasim Bhosale,DCP,MH-PUN-48745,+918549431487,wasim.bhosale415@rediffmail.com,Chandannagar PS,Wadgaon Sheri,14,18,Intelligence,Off Duty
+PO-0277,Manoj Ghosh,DCP,MH-PUN-98063,+918644725181,manoj.ghosh308@yahoo.com,Wagholi PS,Wagholi,80,3,Economic Offenses,Active
+PO-0278,Bharat Khan,Senior Inspector,MH-PUN-95778,+916338642889,bharat.khan364@yahoo.com,Kothrud PS,Bhusari Colony,112,25,Traffic,Active
+PO-0279,Vikram Qureshi,DCP,MH-PUN-17035,+916607042021,vikram.qureshi911@yahoo.com,Chatushrungi PS,Lavale,35,21,Women & Child Safety,Active
+PO-0280,Myra Qureshi,Assistant Sub-Inspector,MH-PUN-36253,+918539366395,myra.qureshi584@rediffmail.com,Shivajinagar PS,University Road,85,22,Homicide,Active
+PO-0281,Nisha Reddy,Senior Inspector,MH-PUN-93165,+916105061082,nisha.reddy463@hotmail.com,Kothrud PS,Karvenagar,199,24,Homicide,Active
+PO-0282,Sumit Shaikh,Assistant Sub-Inspector,MH-PUN-90541,+919780202067,sumit.shaikh440@rediffmail.com,Alandi PS,Alandi,127,12,General Duty,Active
+PO-0283,Karan Patil,Head Constable,MH-PUN-12348,+916772899961,karan.patil752@yahoo.com,Bundgarden PS,Bund Garden,182,11,Anti-Terrorism,Active
+PO-0284,Sarita Patel,Assistant Sub-Inspector,MH-PUN-18557,+916420192227,sarita.patel972@hotmail.com,Nigdi PS,Bhosari,191,16,Intelligence,Active
+PO-0285,Jayshree Ghosh,Senior Inspector,MH-PUN-74248,+918905430477,jayshree.ghosh193@yahoo.com,Sinhagad Road PS,Nanded,9,7,Narcotics,Active
+PO-0286,Deepak Bose,Assistant Sub-Inspector,MH-PUN-26143,+918863548641,deepak.bose667@gmail.com,Chandannagar PS,Chandan Nagar,168,8,Organized Crime,Active
+PO-0287,Tejas Pawar,Inspector,MH-PUN-25176,+919577078832,tejas.pawar390@gmail.com,Chandannagar PS,Wadgaon Sheri,69,15,Homicide,Active
+PO-0288,Vishal Sharma,Police Constable,MH-PUN-91631,+917549710722,vishal.sharma851@gmail.com,Koregaon Park PS,Koregaon Park,77,3,Cybercrime,Active
+PO-0289,Mahesh Syed,Head Constable,MH-PUN-56913,+919417130941,mahesh.syed165@gmail.com,Vishrantwadi PS,Bopodi,58,22,Economic Offenses,Active
+PO-0290,Vivaan Roy,Sub-Inspector,MH-PUN-85255,+919260142678,vivaan.roy973@gmail.com,Alandi PS,Alandi,190,23,Cybercrime,Off Duty
+PO-0291,Prateek Wagh,DCP,MH-PUN-16564,+916973143678,prateek.wagh179@gmail.com,Talegaon PS,Talegaon,97,25,Traffic,Active
+PO-0292,Dhruv Qureshi,Inspector,MH-PUN-28139,+917452896879,dhruv.qureshi367@rediffmail.com,Swargate PS,Market Yard,192,2,Traffic,Off Duty
+PO-0293,Arnav Bhandari,DCP,MH-PUN-45629,+919840777094,arnav.bhandari872@rediffmail.com,Kondhwa PS,Kondhwa Budruk,171,25,Homicide,Active
+PO-0294,Rahul Pawar,DCP,MH-PUN-84572,+919294627041,rahul.pawar626@rediffmail.com,Chaturshrungi PS,Baner,161,0,Homicide,Active
+PO-0295,Priya Sharma,Inspector,MH-PUN-18301,+918803272515,priya.sharma322@gmail.com,Faraskhana PS,Shukrawar Peth,178,16,Intelligence,Active
+PO-0296,Umesh Nikam,Sub-Inspector,MH-PUN-66734,+917617468048,umesh.nikam355@rediffmail.com,Vishrantwadi PS,Vishrantwadi,147,19,General Duty,Active
+PO-0297,Hitesh Qureshi,DCP,MH-PUN-31679,+916906841821,hitesh.qureshi504@hotmail.com,Chinchwad PS,Chinchwad,89,8,General Duty,Active
+PO-0298,Aparna Pathan,Sub-Inspector,MH-PUN-70174,+919960347752,aparna.pathan587@rediffmail.com,Hadapsar PS,Magarpatta,132,14,Traffic,Active
+PO-0299,Manisha Das,Sub-Inspector,MH-PUN-62879,+919138474240,manisha.das571@outlook.com,Chandannagar PS,Kharadi,28,25,Intelligence,On Leave
+PO-0300,Hemant Mehta,DCP,MH-PUN-54676,+918986170931,hemant.mehta56@yahoo.com,Khadak PS,Raviwar Peth,89,17,Intelligence,Active

@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{% block title %}Police Fleet & Patrols{% endblock %}
+{% block page_title %}Police Fleet GPS Tracking & Active Beat Patrol Roster (300 Officers){% endblock %}
+
+{% block content %}
+<div class="grid-layout" style="grid-template-columns: 2fr 1fr;">
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-car-on"></i> Beat Patrol Fleet GPS Map</h3>
+            <div style="display:flex; gap:8px;">
+                <select id="patrol-station-filter" class="select-input">
+                    <option value="All">All Stations</option>
+                    <option value="Shivajinagar">Shivajinagar PS</option>
+                    <option value="Swargate">Swargate PS</option>
+                    <option value="Kothrud">Kothrud PS</option>
+                    <option value="Hadapsar">Hadapsar PS</option>
+                    <option value="Hinjewadi">Hinjewadi PS</option>
+                </select>
+                <select id="patrol-status-filter" class="select-input">
+                    <option value="All">All Status</option>
+                    <option value="Active">Active</option>
+                    <option value="On Patrol">On Patrol</option>
+                    <option value="Responding">Responding</option>
+                </select>
+            </div>
+        </div>
+        <div id="patrol-fleet-map" style="width:100%; height:540px; border-radius:var(--radius-md); border:1px solid var(--border-color);"></div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-user-shield"></i> Active Beat Officers Roster</h3>
+        </div>
+        <div id="patrol-officers-list" style="max-height:520px; overflow-y:auto; display:flex; flex-direction:column; gap:8px;"></div>
+    </div>
+</div>
+{% endblock %}

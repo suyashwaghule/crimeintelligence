@@ -1,0 +1,52 @@
+{% extends "base.html" %}
+
+{% block title %}Citizen SOS & Tips{% endblock %}
+{% block page_title %}Citizen Emergency SOS Panic System & Anonymous Tip Portal{% endblock %}
+
+{% block content %}
+<div class="grid-layout" style="grid-template-columns: 1fr 1fr;">
+    
+    <div class="panel-card" style="border:1px solid rgba(239,68,68,0.4); text-align:center;">
+        <div class="panel-header">
+            <h3 style="color:var(--accent-red);"><i class="fa-solid fa-triangle-exclamation"></i> 1-Tap Emergency SOS Panic System</h3>
+        </div>
+        
+        <div style="padding:30px 10px;">
+            <button id="btn-trigger-sos" style="width:140px; height:140px; border-radius:50%; background:var(--accent-red); border:none; color:#fff; font-family:var(--font-heading); font-size:1.1rem; font-weight:800; cursor:pointer; box-shadow:0 0 20px rgba(239,68,68,0.4); transition:transform 0.2s ease;">
+                <i class="fa-solid fa-bell" style="font-size:2.2rem; display:block; margin-bottom:6px;"></i>
+                SOS PANIC
+            </button>
+            <p style="margin-top:20px; font-size:0.85rem; color:var(--text-muted);">Pressing SOS broadcasts emergency GPS coordinates to HQ and dispatches nearest active police patrol squad.</p>
+        </div>
+
+        <div id="sos-dispatch-output" class="hidden mt-3" style="background:rgba(239,68,68,0.08); border:1px solid rgba(239,68,68,0.3); padding:16px; border-radius:var(--radius-md); text-align:left;"></div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-user-secret"></i> Anonymous Citizen Crime Tip Portal</h3>
+        </div>
+
+        <form id="citizen-tip-form">
+            <div class="form-group">
+                <label>Locality / Area</label>
+                <input type="text" id="tip-area" class="search-box" style="width:100%;" placeholder="e.g. Swargate Chowk" required>
+            </div>
+
+            <div class="form-group">
+                <label>Observed Crime Activity</label>
+                <textarea id="tip-desc" class="search-box" style="width:100%; height:90px; color:#fff;" placeholder="Describe suspicious activity, weapons, or vehicles..." required></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block mt-3">
+                <i class="fa-solid fa-paper-plane"></i> Submit Anonymous Tip
+            </button>
+        </form>
+
+        <div id="tip-success-msg" class="hidden mt-3" style="background:rgba(16,185,129,0.08); border:1px solid rgba(16,185,129,0.3); padding:14px; border-radius:var(--radius-md); color:var(--accent-green); text-align:center;">
+            <i class="fa-solid fa-circle-check"></i> <span id="tip-msg-text">Anonymous Tip Registered.</span>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

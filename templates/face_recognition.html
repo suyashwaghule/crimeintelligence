@@ -1,0 +1,58 @@
+{% extends "base.html" %}
+
+{% block title %}Face Detection AI{% endblock %}
+{% block page_title %}128D Facial Recognition AI & Photo Matching Engine{% endblock %}
+
+{% block content %}
+<div class="grid-layout" style="grid-template-columns: 1fr 1fr;">
+    
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-camera"></i> Face Scanner Input (Upload Your Photo)</h3>
+        </div>
+        
+        <input type="file" id="face-file-input" accept="image/*" class="hidden">
+
+        <div id="face-drop-zone" style="border:2px dashed var(--border-color); border-radius:var(--radius-md); padding:40px 20px; text-align:center; background:rgba(0,0,0,0.2); cursor:pointer; transition:all 0.2s ease;">
+            <i class="fa-solid fa-cloud-arrow-up" style="font-size:2.8rem; color:var(--primary); margin-bottom:12px;"></i>
+            <h4 style="font-size:1.05rem; color:#fff; margin-bottom:6px;">Upload Facial Photo / Mugshot</h4>
+            <p style="font-size:0.82rem; color:var(--text-muted); margin-bottom:16px;">Drag & Drop any photo (JPG, PNG) or click below</p>
+            <button class="btn btn-primary" id="btn-select-face-file">
+                <i class="fa-solid fa-upload"></i> Select Photo to Match
+            </button>
+        </div>
+
+        <div class="hidden" id="face-preview-box" style="text-align:center; margin-top:16px;">
+            <img id="face-preview-img" src="" alt="Query Mugshot" style="max-height:240px; border-radius:var(--radius-md); border:1px solid var(--border-color);">
+            <div style="margin-top:12px;">
+                <button class="btn btn-secondary btn-sm" id="btn-reset-face">
+                    <i class="fa-solid fa-rotate-left"></i> Upload Different Photo
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-bullseye"></i> AI Facial Match Results</h3>
+        </div>
+        
+        <div id="face-match-loading" class="hidden" style="text-align:center; padding:40px;">
+            <i class="fa-solid fa-spinner fa-spin" style="font-size:2.2rem; color:var(--primary); margin-bottom:12px;"></i>
+            <p style="font-size:0.85rem; color:var(--text-muted);">Extracting 128D Facial Encodings & Querying pgvector index...</p>
+        </div>
+
+        <div id="face-match-empty" style="text-align:center; padding:50px 20px; color:var(--text-muted);">
+            <i class="fa-solid fa-face-viewfinder" style="font-size:2.8rem; color:var(--text-dim); margin-bottom:12px;"></i>
+            <p style="font-size:0.85rem;">Upload or drag-and-drop a photo on the left panel to execute database matching.</p>
+        </div>
+
+        <div id="face-match-output" class="hidden">
+            <div id="top-match-card" style="margin-bottom:16px;"></div>
+            <h4 style="font-size:0.9rem; color:var(--text-muted); margin-bottom:10px;">Other Top Candidate Matches</h4>
+            <div id="candidates-list" style="display:flex; flex-direction:column; gap:8px;"></div>
+        </div>
+    </div>
+
+</div>
+{% endblock %}

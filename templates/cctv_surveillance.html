@@ -1,0 +1,76 @@
+{% extends "base.html" %}
+
+{% block title %}Live CCTV AI Surveillance{% endblock %}
+{% block page_title %}Live CCTV Stream & Mobile Camera AI Surveillance Command{% endblock %}
+
+{% block content %}
+<div class="grid-layout" style="grid-template-columns: 2fr 1fr;">
+    
+    <!-- REAL CAMERA FEED VIEWPORT -->
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-video"></i> Live CCTV Stream & Video Input Scanner</h3>
+        </div>
+
+        <input type="file" id="cctv-file-input" accept="image/*,video/*" class="hidden">
+
+        <!-- IP WEBCAM QUICK CONNECT BAR -->
+        <div style="background:rgba(16,185,129,0.06); border:1px solid rgba(16,185,129,0.3); padding:12px 14px; border-radius:var(--radius-md); margin-bottom:14px;">
+            <div style="display:flex; gap:8px; align-items:center; flex-wrap:wrap;">
+                <i class="fa-solid fa-mobile-retro" style="color:var(--accent-green); font-size:1.1rem;"></i>
+                <strong style="font-size:0.82rem; color:#fff;">Android IP Webcam App:</strong>
+                <input type="text" id="cctv-ip-webcam-url" class="search-box" style="flex:1.5; min-width:160px; padding:6px 10px; font-size:0.82rem; font-family:var(--font-code);" value="192.168.1.35:8080" placeholder="192.168.1.35:8080">
+                <input type="text" id="cctv-ip-username" class="search-box" style="flex:1; min-width:100px; padding:6px 10px; font-size:0.8rem;" placeholder="User (Optional)">
+                <input type="password" id="cctv-ip-password" class="search-box" style="flex:1; min-width:100px; padding:6px 10px; font-size:0.8rem;" placeholder="Password (Optional)">
+                <button class="btn btn-primary btn-sm" id="btn-connect-ip-webcam" style="background:var(--accent-green); border:none; font-weight:700;">
+                    <i class="fa-solid fa-plug"></i> Connect Phone Stream
+                </button>
+            </div>
+        </div>
+
+        <div style="display:flex; gap:8px; margin-bottom:14px; flex-wrap:wrap;">
+            <button class="btn btn-primary btn-sm" id="btn-cctv-upload">
+                <i class="fa-solid fa-upload"></i> Upload Video / Image
+            </button>
+            <button class="btn btn-secondary btn-sm" id="btn-cctv-webcam">
+                <i class="fa-solid fa-camera"></i> Connect Web Camera
+            </button>
+            <button class="btn btn-primary btn-sm" id="btn-cctv-mobile-modal" style="background:var(--accent-purple);">
+                <i class="fa-solid fa-mobile-screen-button"></i> Stream Phone Browser
+            </button>
+        </div>
+
+        <div class="cctv-feed-viewport" style="position:relative; overflow:hidden; background:#000; border-radius:var(--radius-md); height:360px; display:flex; justify-content:center; align-items:center; border:1px solid var(--border-color);">
+            <video id="cctv-video-player" class="hidden" autoplay playsinline style="width:100%; height:100%; object-fit:cover;"></video>
+            <img id="cctv-image-player" class="hidden" src="" style="width:100%; height:100%; object-fit:cover;">
+            
+            <div id="cctv-placeholder" style="text-align:center; color:var(--text-muted);">
+                <i class="fa-solid fa-video-slash" style="font-size:2.8rem; margin-bottom:10px; color:var(--text-dim);"></i>
+                <p style="font-size:0.85rem;">No active camera stream connected.<br>Connect your Android IP Webcam (192.168.1.35:8080) or upload a video file.</p>
+            </div>
+        </div>
+
+        <div style="margin-top:14px; display:flex; justify-content:space-between; align-items:center;">
+            <button class="btn btn-primary" id="btn-cctv-analyze-frame">
+                <i class="fa-solid fa-radar"></i> Analyze Connected Stream Frame
+            </button>
+            <span id="cctv-feed-status" style="font-size:0.8rem; color:var(--text-muted);">Status: Ready</span>
+        </div>
+    </div>
+
+    <!-- AI MATCH & DOSSIER RESULTS -->
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-bullseye"></i> AI Facial Detection Results</h3>
+        </div>
+
+        <div id="cctv-result-empty" style="text-align:center; padding:40px 10px; color:var(--text-muted);">
+            <i class="fa-solid fa-shield-halved" style="font-size:2.5rem; color:var(--text-dim); margin-bottom:12px;"></i>
+            <p style="font-size:0.85rem;">Connect stream and click "Analyze Connected Stream Frame" to run database facial vector matching.</p>
+        </div>
+
+        <div id="cctv-result-output" class="hidden"></div>
+    </div>
+
+</div>
+{% endblock %}

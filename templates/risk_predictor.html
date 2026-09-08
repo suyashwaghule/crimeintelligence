@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}Future Risk Predictor{% endblock %}
+{% block page_title %}AI 24-Hour Future Crime Risk Predictor & Deployment Forecast{% endblock %}
+
+{% block content %}
+<div class="panel-card mb-3" style="background:#ffffff; border:1px solid #e2e8f0;">
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:16px;">
+        <div style="display:flex; align-items:center; gap:14px;">
+            <i class="fa-solid fa-brain" style="font-size:2rem; color:#0f172a;"></i>
+            <div>
+                <h3 style="font-size:1.1rem; color:#0f172a; margin-bottom:4px;">Spatio-Temporal Future Crime ML Predictor</h3>
+                <p style="font-size:0.83rem; color:var(--text-muted); margin:0;">
+                    Supervised <code>RandomForestRegressor</code> trained on 157,300 spatio-temporal FIR records (2022–2025). 
+                    Predicts <strong>actual expected 24-hour crime incident counts</strong> with zero future data leakage.
+                </p>
+            </div>
+        </div>
+        <div style="text-align:right;">
+            <span class="badge" style="background:#0f172a; color:#ffffff; border:1px solid #0f172a; font-size:0.78rem; padding:6px 12px;">
+                <i class="fa-solid fa-shield-halved"></i> Advisory ML System — Human Decision Support
+            </span>
+        </div>
+    </div>
+</div>
+
+<!-- ML Performance & Model Benchmark Metrics Bar -->
+<div class="panel-card mb-3" id="ml-metrics-banner" style="display:none; background:#ffffff; border:1px solid #e2e8f0;">
+    <div style="display:grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap:16px; font-size:0.83rem;">
+        <div>
+            <span style="color:var(--text-dim); display:block; font-size:0.75rem;">TARGET VARIABLE</span>
+            <strong style="color:#0f172a; font-family:var(--font-code);" id="ml-target-var">future_24h_crime_count</strong>
+        </div>
+        <div>
+            <span style="color:var(--text-dim); display:block; font-size:0.75rem;">TEST SET MAE</span>
+            <strong style="color:#0f172a;" id="ml-test-mae">0.2258</strong>
+            <small style="color:var(--text-muted); font-size:0.7rem;" id="ml-baseline-mae">(vs 0.2263 Baseline)</small>
+        </div>
+        <div>
+            <span style="color:var(--text-dim); display:block; font-size:0.75rem;">TEST SET RMSE</span>
+            <strong style="color:#0f172a;" id="ml-test-rmse">0.3600</strong>
+        </div>
+        <div>
+            <span style="color:var(--text-dim); display:block; font-size:0.75rem;">EVALUATION SPLIT</span>
+            <strong style="color:#0f172a;" id="ml-eval-split">Strict Chronological</strong>
+        </div>
+        <div>
+            <span style="color:var(--text-dim); display:block; font-size:0.75rem;">TOTAL SAMPLES</span>
+            <strong style="color:#0f172a;" id="ml-total-samples">157,300 Area x Date</strong>
+        </div>
+    </div>
+</div>
+
+<div class="grid-layout" style="grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));" id="ai-forecast-container"></div>
+{% endblock %}

@@ -1,0 +1,1875 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8475,
+          18.5308
+        ]
+      },
+      "properties": {
+        "area_name": "Shivajinagar",
+        "total_crimes": 214,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8402,
+          18.5185
+        ]
+      },
+      "properties": {
+        "area_name": "Deccan Gymkhana",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.841,
+          18.527
+        ]
+      },
+      "properties": {
+        "area_name": "FC Road",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.842,
+          18.521
+        ]
+      },
+      "properties": {
+        "area_name": "JM Road",
+        "total_crimes": 185,
+        "hotspot_score": 9.25,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8077,
+          18.5074
+        ]
+      },
+      "properties": {
+        "area_name": "Kothrud",
+        "total_crimes": 211,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8165,
+          18.4972
+        ]
+      },
+      "properties": {
+        "area_name": "Karvenagar",
+        "total_crimes": 182,
+        "hotspot_score": 9.1,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8028,
+          18.4887
+        ]
+      },
+      "properties": {
+        "area_name": "Warje",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.78,
+          18.5128
+        ]
+      },
+      "properties": {
+        "area_name": "Bavdhan",
+        "total_crimes": 183,
+        "hotspot_score": 9.15,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82,
+          18.475
+        ]
+      },
+      "properties": {
+        "area_name": "Sinhagad Road",
+        "total_crimes": 201,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81,
+          18.478
+        ]
+      },
+      "properties": {
+        "area_name": "Vadgaon Budruk",
+        "total_crimes": 196,
+        "hotspot_score": 9.8,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.805,
+          18.46
+        ]
+      },
+      "properties": {
+        "area_name": "Dhayari",
+        "total_crimes": 193,
+        "hotspot_score": 9.65,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8553,
+          18.4577
+        ]
+      },
+      "properties": {
+        "area_name": "Katraj",
+        "total_crimes": 191,
+        "hotspot_score": 9.55,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.848,
+          18.462
+        ]
+      },
+      "properties": {
+        "area_name": "Dhankawadi",
+        "total_crimes": 184,
+        "hotspot_score": 9.2,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85,
+          18.457
+        ]
+      },
+      "properties": {
+        "area_name": "Bharati Vidyapeeth",
+        "total_crimes": 183,
+        "hotspot_score": 9.15,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.863,
+          18.481
+        ]
+      },
+      "properties": {
+        "area_name": "Bibvewadi",
+        "total_crimes": 172,
+        "hotspot_score": 8.6,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.855,
+          18.475
+        ]
+      },
+      "properties": {
+        "area_name": "Sahakarnagar",
+        "total_crimes": 187,
+        "hotspot_score": 9.35,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.851,
+          18.496
+        ]
+      },
+      "properties": {
+        "area_name": "Parvati",
+        "total_crimes": 185,
+        "hotspot_score": 9.25,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.843,
+          18.5
+        ]
+      },
+      "properties": {
+        "area_name": "Dattawadi",
+        "total_crimes": 179,
+        "hotspot_score": 8.95,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.85,
+          18.51
+        ]
+      },
+      "properties": {
+        "area_name": "Sadashiv Peth",
+        "total_crimes": 178,
+        "hotspot_score": 8.9,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.853,
+          18.512
+        ]
+      },
+      "properties": {
+        "area_name": "Narayan Peth",
+        "total_crimes": 172,
+        "hotspot_score": 8.6,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.849,
+          18.508
+        ]
+      },
+      "properties": {
+        "area_name": "Tilak Road",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.857,
+          18.516
+        ]
+      },
+      "properties": {
+        "area_name": "Budhwar Peth",
+        "total_crimes": 168,
+        "hotspot_score": 8.4,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.856,
+          18.514
+        ]
+      },
+      "properties": {
+        "area_name": "Raviwar Peth",
+        "total_crimes": 185,
+        "hotspot_score": 9.25,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8555,
+          18.513
+        ]
+      },
+      "properties": {
+        "area_name": "Laxmi Road",
+        "total_crimes": 180,
+        "hotspot_score": 9.0,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.859,
+          18.517
+        ]
+      },
+      "properties": {
+        "area_name": "Kasba Peth",
+        "total_crimes": 181,
+        "hotspot_score": 9.05,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.858,
+          18.518
+        ]
+      },
+      "properties": {
+        "area_name": "Somwar Peth",
+        "total_crimes": 155,
+        "hotspot_score": 7.75,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8565,
+          18.515
+        ]
+      },
+      "properties": {
+        "area_name": "Shukrawar Peth",
+        "total_crimes": 198,
+        "hotspot_score": 9.9,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8625,
+          18.5015
+        ]
+      },
+      "properties": {
+        "area_name": "Swargate",
+        "total_crimes": 182,
+        "hotspot_score": 9.1,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.868,
+          18.498
+        ]
+      },
+      "properties": {
+        "area_name": "Market Yard",
+        "total_crimes": 179,
+        "hotspot_score": 8.95,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.88,
+          18.513
+        ]
+      },
+      "properties": {
+        "area_name": "Camp",
+        "total_crimes": 157,
+        "hotspot_score": 7.85,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.878,
+          18.514
+        ]
+      },
+      "properties": {
+        "area_name": "MG Road",
+        "total_crimes": 190,
+        "hotspot_score": 9.5,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.882,
+          18.516
+        ]
+      },
+      "properties": {
+        "area_name": "East Street",
+        "total_crimes": 175,
+        "hotspot_score": 8.75,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.893,
+          18.5362
+        ]
+      },
+      "properties": {
+        "area_name": "Koregaon Park",
+        "total_crimes": 198,
+        "hotspot_score": 9.9,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.887,
+          18.532
+        ]
+      },
+      "properties": {
+        "area_name": "Boat Club Road",
+        "total_crimes": 171,
+        "hotspot_score": 8.55,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.881,
+          18.534
+        ]
+      },
+      "properties": {
+        "area_name": "Bund Garden",
+        "total_crimes": 199,
+        "hotspot_score": 9.95,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8743,
+          18.5285
+        ]
+      },
+      "properties": {
+        "area_name": "Pune Station",
+        "total_crimes": 180,
+        "hotspot_score": 9.0,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.883,
+          18.558
+        ]
+      },
+      "properties": {
+        "area_name": "Yerawada",
+        "total_crimes": 181,
+        "hotspot_score": 9.05,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.902,
+          18.547
+        ]
+      },
+      "properties": {
+        "area_name": "Kalyani Nagar",
+        "total_crimes": 151,
+        "hotspot_score": 7.55,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.807,
+          18.559
+        ]
+      },
+      "properties": {
+        "area_name": "Aundh",
+        "total_crimes": 196,
+        "hotspot_score": 9.8,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.787,
+          18.5596
+        ]
+      },
+      "properties": {
+        "area_name": "Baner",
+        "total_crimes": 190,
+        "hotspot_score": 9.5,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.775,
+          18.569
+        ]
+      },
+      "properties": {
+        "area_name": "Balewadi",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.793,
+          18.538
+        ]
+      },
+      "properties": {
+        "area_name": "Pashan",
+        "total_crimes": 183,
+        "hotspot_score": 9.15,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.76,
+          18.543
+        ]
+      },
+      "properties": {
+        "area_name": "Sus",
+        "total_crimes": 188,
+        "hotspot_score": 9.4,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7389,
+          18.5913
+        ]
+      },
+      "properties": {
+        "area_name": "Hinjewadi",
+        "total_crimes": 185,
+        "hotspot_score": 9.25,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.762,
+          18.599
+        ]
+      },
+      "properties": {
+        "area_name": "Wakad",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.782,
+          18.594
+        ]
+      },
+      "properties": {
+        "area_name": "Pimple Saudagar",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.798,
+          18.583
+        ]
+      },
+      "properties": {
+        "area_name": "Pimple Nilakh",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.81,
+          18.578
+        ]
+      },
+      "properties": {
+        "area_name": "Sangvi",
+        "total_crimes": 160,
+        "hotspot_score": 8.0,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.827,
+          18.567
+        ]
+      },
+      "properties": {
+        "area_name": "Dapodi",
+        "total_crimes": 198,
+        "hotspot_score": 9.9,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.796,
+          18.623
+        ]
+      },
+      "properties": {
+        "area_name": "Pimpri",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.7997,
+          18.6298
+        ]
+      },
+      "properties": {
+        "area_name": "Chinchwad",
+        "total_crimes": 165,
+        "hotspot_score": 8.25,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.786,
+          18.642
+        ]
+      },
+      "properties": {
+        "area_name": "Akurdi",
+        "total_crimes": 165,
+        "hotspot_score": 8.25,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.773,
+          18.635
+        ]
+      },
+      "properties": {
+        "area_name": "Pradhikaran",
+        "total_crimes": 193,
+        "hotspot_score": 9.65,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.77,
+          18.651
+        ]
+      },
+      "properties": {
+        "area_name": "Nigdi",
+        "total_crimes": 169,
+        "hotspot_score": 8.45,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83,
+          18.633
+        ]
+      },
+      "properties": {
+        "area_name": "Bhosari",
+        "total_crimes": 174,
+        "hotspot_score": 8.7,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.84,
+          18.558
+        ]
+      },
+      "properties": {
+        "area_name": "Khadki",
+        "total_crimes": 141,
+        "hotspot_score": 7.05,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.855,
+          18.567
+        ]
+      },
+      "properties": {
+        "area_name": "Vishrantwadi",
+        "total_crimes": 181,
+        "hotspot_score": 9.05,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835,
+          18.562
+        ]
+      },
+      "properties": {
+        "area_name": "Range Hills",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.9143,
+          18.5679
+        ]
+      },
+      "properties": {
+        "area_name": "Viman Nagar",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.905,
+          18.578
+        ]
+      },
+      "properties": {
+        "area_name": "Dhanori",
+        "total_crimes": 156,
+        "hotspot_score": 7.8,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.919,
+          18.592
+        ]
+      },
+      "properties": {
+        "area_name": "Lohegaon",
+        "total_crimes": 204,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.926,
+          18.5089
+        ]
+      },
+      "properties": {
+        "area_name": "Hadapsar",
+        "total_crimes": 209,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.927,
+          18.515
+        ]
+      },
+      "properties": {
+        "area_name": "Magarpatta",
+        "total_crimes": 154,
+        "hotspot_score": 7.7,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.935,
+          18.482
+        ]
+      },
+      "properties": {
+        "area_name": "Fursungi",
+        "total_crimes": 181,
+        "hotspot_score": 9.05,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.922,
+          18.534
+        ]
+      },
+      "properties": {
+        "area_name": "Mundhwa",
+        "total_crimes": 161,
+        "hotspot_score": 8.05,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.934,
+          18.528
+        ]
+      },
+      "properties": {
+        "area_name": "Keshav Nagar",
+        "total_crimes": 181,
+        "hotspot_score": 9.05,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.938,
+          18.553
+        ]
+      },
+      "properties": {
+        "area_name": "Kharadi",
+        "total_crimes": 195,
+        "hotspot_score": 9.75,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.93,
+          18.558
+        ]
+      },
+      "properties": {
+        "area_name": "Chandan Nagar",
+        "total_crimes": 211,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.8803,
+          18.4637
+        ]
+      },
+      "properties": {
+        "area_name": "Kondhwa",
+        "total_crimes": 208,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.89,
+          18.465
+        ]
+      },
+      "properties": {
+        "area_name": "NIBM",
+        "total_crimes": 187,
+        "hotspot_score": 9.35,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.895,
+          18.451
+        ]
+      },
+      "properties": {
+        "area_name": "Undri",
+        "total_crimes": 154,
+        "hotspot_score": 7.7,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.888,
+          18.489
+        ]
+      },
+      "properties": {
+        "area_name": "Wanowrie",
+        "total_crimes": 168,
+        "hotspot_score": 8.4,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.963,
+          18.578
+        ]
+      },
+      "properties": {
+        "area_name": "Wagholi",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.918,
+          18.547
+        ]
+      },
+      "properties": {
+        "area_name": "Wadgaon Sheri",
+        "total_crimes": 199,
+        "hotspot_score": 9.95,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.852,
+          18.444
+        ]
+      },
+      "properties": {
+        "area_name": "Ambegaon",
+        "total_crimes": 203,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.839,
+          18.449
+        ]
+      },
+      "properties": {
+        "area_name": "Nanded",
+        "total_crimes": 221,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83,
+          18.525
+        ]
+      },
+      "properties": {
+        "area_name": "Senapati Bapat Road",
+        "total_crimes": 188,
+        "hotspot_score": 9.4,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.826,
+          18.528
+        ]
+      },
+      "properties": {
+        "area_name": "University Road",
+        "total_crimes": 181,
+        "hotspot_score": 9.05,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835,
+          18.526
+        ]
+      },
+      "properties": {
+        "area_name": "Model Colony",
+        "total_crimes": 205,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.837,
+          18.52
+        ]
+      },
+      "properties": {
+        "area_name": "Law College Road",
+        "total_crimes": 179,
+        "hotspot_score": 8.95,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83,
+          18.51
+        ]
+      },
+      "properties": {
+        "area_name": "Erandwane",
+        "total_crimes": 185,
+        "hotspot_score": 9.25,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.748,
+          18.606
+        ]
+      },
+      "properties": {
+        "area_name": "Tathawade",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.757,
+          18.645
+        ]
+      },
+      "properties": {
+        "area_name": "Ravet",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.758,
+          18.675
+        ]
+      },
+      "properties": {
+        "area_name": "Dehu Road",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.676,
+          18.726
+        ]
+      },
+      "properties": {
+        "area_name": "Talegaon",
+        "total_crimes": 182,
+        "hotspot_score": 9.1,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.896,
+          18.677
+        ]
+      },
+      "properties": {
+        "area_name": "Alandi",
+        "total_crimes": 179,
+        "hotspot_score": 8.95,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.863,
+          18.761
+        ]
+      },
+      "properties": {
+        "area_name": "Chakan",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.4072,
+          18.7481
+        ]
+      },
+      "properties": {
+        "area_name": "Lonavala",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.032,
+          18.345
+        ]
+      },
+      "properties": {
+        "area_name": "Saswad",
+        "total_crimes": 180,
+        "hotspot_score": 9.0,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.828,
+          18.562
+        ]
+      },
+      "properties": {
+        "area_name": "Bopodi",
+        "total_crimes": 179,
+        "hotspot_score": 8.95,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.885,
+          18.46
+        ]
+      },
+      "properties": {
+        "area_name": "Kondhwa Budruk",
+        "total_crimes": 160,
+        "hotspot_score": 8.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.868,
+          18.483
+        ]
+      },
+      "properties": {
+        "area_name": "Upper Indira Nagar",
+        "total_crimes": 222,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.852,
+          18.477
+        ]
+      },
+      "properties": {
+        "area_name": "Padmavati",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835,
+          18.516
+        ]
+      },
+      "properties": {
+        "area_name": "Prabhat Road",
+        "total_crimes": 205,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.83,
+          18.535
+        ]
+      },
+      "properties": {
+        "area_name": "Ganeshkhind",
+        "total_crimes": 176,
+        "hotspot_score": 8.8,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.835,
+          18.53
+        ]
+      },
+      "properties": {
+        "area_name": "Gokhale Nagar",
+        "total_crimes": 170,
+        "hotspot_score": 8.5,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.813,
+          18.505
+        ]
+      },
+      "properties": {
+        "area_name": "Bhusari Colony",
+        "total_crimes": 167,
+        "hotspot_score": 8.35,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.82,
+          18.501
+        ]
+      },
+      "properties": {
+        "area_name": "Mayur Colony",
+        "total_crimes": 174,
+        "hotspot_score": 8.7,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.825,
+          18.507
+        ]
+      },
+      "properties": {
+        "area_name": "Dahanukar Colony",
+        "total_crimes": 195,
+        "hotspot_score": 9.75,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.87,
+          18.524
+        ]
+      },
+      "properties": {
+        "area_name": "Sassoon Road",
+        "total_crimes": 166,
+        "hotspot_score": 8.3,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.74,
+          18.56
+        ]
+      },
+      "properties": {
+        "area_name": "Maan",
+        "total_crimes": 200,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Cybercrime",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.71,
+          18.51
+        ]
+      },
+      "properties": {
+        "area_name": "Lavale",
+        "total_crimes": 205,
+        "hotspot_score": 10.0,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.95,
+          18.505
+        ]
+      },
+      "properties": {
+        "area_name": "Manjri",
+        "total_crimes": 169,
+        "hotspot_score": 8.45,
+        "most_common_crime": "Murder",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.942,
+          18.475
+        ]
+      },
+      "properties": {
+        "area_name": "Phursungi",
+        "total_crimes": 164,
+        "hotspot_score": 8.2,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.96,
+          18.46
+        ]
+      },
+      "properties": {
+        "area_name": "Loni Kalbhor",
+        "total_crimes": 185,
+        "hotspot_score": 9.25,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.98,
+          18.47
+        ]
+      },
+      "properties": {
+        "area_name": "Uruli Kanchan",
+        "total_crimes": 165,
+        "hotspot_score": 8.25,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.928,
+          18.457
+        ]
+      },
+      "properties": {
+        "area_name": "Handewadi",
+        "total_crimes": 188,
+        "hotspot_score": 9.4,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.908,
+          18.468
+        ]
+      },
+      "properties": {
+        "area_name": "Mohammadwadi",
+        "total_crimes": 179,
+        "hotspot_score": 8.95,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.91,
+          18.438
+        ]
+      },
+      "properties": {
+        "area_name": "Pisoli",
+        "total_crimes": 168,
+        "hotspot_score": 8.4,
+        "most_common_crime": "Theft",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.878,
+          18.553
+        ]
+      },
+      "properties": {
+        "area_name": "Yerwada",
+        "total_crimes": 186,
+        "hotspot_score": 9.3,
+        "most_common_crime": "Robbery",
+        "dangerous_time": "12:00 PM - 6:00 PM"
+      }
+    }
+  ]
+}

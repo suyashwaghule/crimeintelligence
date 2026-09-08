@@ -1,0 +1,86 @@
+{% extends "base.html" %}
+
+{% block title %}MO Pattern Matcher{% endblock %}
+{% block page_title %}Modus Operandi (MO) Pattern Matcher & Suspect Solver{% endblock %}
+
+{% block content %}
+<div class="grid-layout" style="grid-template-columns: 1fr 2fr;">
+    
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-masks-theater"></i> Crime Scene Modus Operandi Parameters</h3>
+        </div>
+        <form id="mo-matching-form">
+            <div class="form-group">
+                <label><i class="fa-solid fa-gun"></i> Crime Category</label>
+                <select id="mo-crime-type" class="select-input">
+                    <option value="Theft">Theft</option>
+                    <option value="Robbery">Robbery</option>
+                    <option value="Murder">Murder</option>
+                    <option value="Assault">Assault</option>
+                    <option value="Cybercrime">Cybercrime</option>
+                    <option value="Fraud">Fraud</option>
+                    <option value="Drug Offense">Drug Offense</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label><i class="fa-solid fa-screwdriver-wrench"></i> Weapon Used</label>
+                <select id="mo-weapon" class="select-input">
+                    <option value="Knife">Knife</option>
+                    <option value="Pistol">Pistol</option>
+                    <option value="Iron Rod">Iron Rod</option>
+                    <option value="Machete">Machete</option>
+                    <option value="Cricket Bat">Cricket Bat</option>
+                    <option value="None">None</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label><i class="fa-solid fa-door-open"></i> Entry Method</label>
+                <select id="mo-entry" class="select-input">
+                    <option value="Door break">Door Break</option>
+                    <option value="Window break">Window Break</option>
+                    <option value="Lock picking">Lock Picking</option>
+                    <option value="Front door">Front Door</option>
+                    <option value="Key duplication">Key Duplication</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label><i class="fa-solid fa-building"></i> Target Type</label>
+                <select id="mo-target" class="select-input">
+                    <option value="Jewelry Store">Jewelry Store</option>
+                    <option value="Bank">Bank</option>
+                    <option value="House">House</option>
+                    <option value="ATM">ATM</option>
+                    <option value="Person">Person / Pedestrian</option>
+                    <option value="Vehicle">Vehicle</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label><i class="fa-solid fa-clock"></i> Time of Crime</label>
+                <select id="mo-timing" class="select-input">
+                    <option value="Late night (11PM-3AM)">Late Night (11 PM - 3 AM)</option>
+                    <option value="Early morning (3AM-6AM)">Early Morning (3 AM - 6 AM)</option>
+                    <option value="Afternoon (12PM-3PM)">Afternoon (12 PM - 3 PM)</option>
+                    <option value="Evening (6PM-9PM)">Evening (6 PM - 9 PM)</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block mt-3">
+                <i class="fa-solid fa-brain"></i> Match Suspects by MO Pattern
+            </button>
+        </form>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-user-check"></i> MO Suspect Pattern Rankings</h3>
+        </div>
+        <div id="mo-results-container" style="display:flex; flex-direction:column; gap:10px; max-height:500px; overflow-y:auto;"></div>
+    </div>
+
+</div>
+{% endblock %}

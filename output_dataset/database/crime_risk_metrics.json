@@ -1,0 +1,89 @@
+{
+  "model_algorithm": "RandomForestRegressor (100 Decision Trees, max_depth=12)",
+  "prediction_horizon": "Next 24 Hours",
+  "target_variable": "future_24h_crime_count",
+  "dataset_type": "Synthetic Historical FIR Dataset (2022-2025)",
+  "total_samples": 157410,
+  "train_samples": 110187,
+  "val_samples": 23611,
+  "test_samples": 23612,
+  "train_dates": "2022-01-31 to 2024-10-28",
+  "val_dates": "2024-10-28 to 2025-05-31",
+  "test_dates": "2025-05-31 to 2025-12-31",
+  "metrics": {
+    "train_r2": 0.0622,
+    "val_r2": -0.0056,
+    "test_r2": -0.0043,
+    "test_mae": 0.2256,
+    "test_rmse": 0.3598,
+    "baseline_mae": 0.2263,
+    "baseline_rmse": 0.384,
+    "ml_mae_improvement_pct": 0.3
+  },
+  "target_distribution": {
+    "min": 0.0,
+    "max": 4.0,
+    "mean": 0.12823987802812128,
+    "std": 0.3590325275064588,
+    "zero_target_pct": 87.98
+  },
+  "feature_importances": [
+    {
+      "feature": "month",
+      "importance_pct": 15.68
+    },
+    {
+      "feature": "day_of_week",
+      "importance_pct": 14.97
+    },
+    {
+      "feature": "crimes_prev_30d",
+      "importance_pct": 14.89
+    },
+    {
+      "feature": "longitude",
+      "importance_pct": 12.21
+    },
+    {
+      "feature": "latitude",
+      "importance_pct": 11.61
+    },
+    {
+      "feature": "crimes_prev_7d",
+      "importance_pct": 6.51
+    },
+    {
+      "feature": "night_prev_7d",
+      "importance_pct": 4.3
+    },
+    {
+      "feature": "robbery_prev_7d",
+      "importance_pct": 3.97
+    },
+    {
+      "feature": "crimes_prev_24h",
+      "importance_pct": 3.69
+    },
+    {
+      "feature": "cyber_prev_7d",
+      "importance_pct": 3.61
+    },
+    {
+      "feature": "murder_prev_7d",
+      "importance_pct": 3.57
+    },
+    {
+      "feature": "theft_prev_7d",
+      "importance_pct": 3.52
+    },
+    {
+      "feature": "is_weekend",
+      "importance_pct": 1.47
+    },
+    {
+      "feature": "women_prev_7d",
+      "importance_pct": 0.0
+    }
+  ],
+  "human_in_loop_notice": "ML-based estimated crime activity \u2014 for decision support only. Authorized officer interpretation required prior to patrol allocation."
+}

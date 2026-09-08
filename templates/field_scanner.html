@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}Field Officer Mobile App{% endblock %}
+{% block page_title %}Field Officer Mobile PWA Handheld Mugshot Scanner{% endblock %}
+
+{% block content %}
+<div style="display:flex; justify-content:center;">
+    <div style="width:100%; max-width:420px; background:var(--bg-card); border:1px solid var(--border-color); border-radius:var(--radius-lg); overflow:hidden; box-shadow:var(--shadow-subtle);">
+        <div style="background:#0d162d; padding:14px; text-align:center; font-family:var(--font-heading); font-weight:700; color:var(--primary); border-bottom:1px solid var(--border-color);">
+            <i class="fa-solid fa-walkie-talkie"></i> BEAT PATROL HANDHELD SCANNER
+        </div>
+
+        <input type="file" id="field-file-input" accept="image/*" class="hidden">
+        
+        <div style="padding:20px;">
+            <div style="position:relative; overflow:hidden; border-radius:var(--radius-md); border:1px solid var(--border-color); height:220px; background:#000;">
+                <img id="field-camera-img" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?fit=crop&w=300&h=300" style="width:100%; height:100%; object-fit:cover;">
+            </div>
+
+            <button class="btn btn-primary btn-block mt-3" id="btn-field-scan">
+                <i class="fa-solid fa-camera"></i> Upload Photo / Snap Field Capture
+            </button>
+
+            <div id="field-scan-result" class="mt-3 hidden"></div>
+        </div>
+    </div>
+</div>
+{% endblock %}

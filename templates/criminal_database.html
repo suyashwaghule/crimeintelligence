@@ -1,0 +1,46 @@
+{% extends "base.html" %}
+
+{% block title %}Criminal Database{% endblock %}
+{% block page_title %}Comprehensive Criminal Dossiers & Database Index{% endblock %}
+
+{% block content %}
+<div class="panel-card mb-3">
+    <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:12px;">
+        <div style="flex:1; min-width:240px; display:flex; align-items:center; background:var(--bg-input); border:1px solid var(--border-color); padding:0 12px; border-radius:var(--radius-sm);">
+            <i class="fa-solid fa-magnifying-glass" style="color:var(--text-dim); margin-right:8px;"></i>
+            <input type="text" id="criminal-search-input" class="search-box" style="border:none; width:100%;" placeholder="Search Criminal Name, Alias, Criminal ID, Gang, Locality...">
+        </div>
+
+        <div style="display:flex; gap:8px; flex-wrap:wrap;">
+            <select id="filter-category" class="select-input">
+                <option value="All">All Categories</option>
+                <option value="Violent">Violent</option>
+                <option value="Non-violent">Non-violent</option>
+                <option value="Organized Crime">Organized Crime</option>
+                <option value="Habitual Offender">Habitual Offender</option>
+                <option value="White Collar">White Collar</option>
+            </select>
+
+            <select id="filter-risk" class="select-input">
+                <option value="All">All Risk Levels</option>
+                <option value="Critical">Critical Risk</option>
+                <option value="High">High Risk</option>
+                <option value="Medium">Medium Risk</option>
+                <option value="Low">Low Risk</option>
+            </select>
+
+            <select id="filter-wanted" class="select-input">
+                <option value="All">All Wanted Status</option>
+                <option value="1">Wanted Only</option>
+                <option value="0">Not Wanted</option>
+            </select>
+
+            <button class="btn btn-primary" id="btn-open-add-modal">
+                <i class="fa-solid fa-user-plus"></i> Register New Criminal
+            </button>
+        </div>
+    </div>
+</div>
+
+<div class="grid-layout" style="grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));" id="criminal-cards-container"></div>
+{% endblock %}

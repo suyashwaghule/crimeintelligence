@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+
+{% block title %}Analytics Dashboard{% endblock %}
+{% block page_title %}Analytics & Intelligence Dashboard{% endblock %}
+
+{% block content %}
+<div class="grid-layout" style="grid-template-columns: 2fr 1fr; margin-bottom: 20px;">
+    
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-map-location-dot"></i> Pune City Crime Hotspot & GeoJSON Jurisdiction Map</h3>
+            <div style="display:flex; gap:8px;">
+                <button class="btn btn-sm btn-primary" id="btn-toggle-heatmap"><i class="fa-solid fa-fire"></i> Heatmap</button>
+                <button class="btn btn-sm btn-secondary" id="btn-toggle-markers"><i class="fa-solid fa-location-pin"></i> Markers</button>
+            </div>
+        </div>
+        <div id="pune-map" class="map-container"></div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-chart-pie"></i> Crime Category Distribution</h3>
+        </div>
+        <div class="chart-container">
+            <canvas id="chart-crime-types"></canvas>
+        </div>
+    </div>
+
+</div>
+
+<div class="grid-layout" style="grid-template-columns: repeat(3, 1fr);">
+    
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-arrow-trend-up"></i> Monthly Incident Trend</h3>
+        </div>
+        <div class="chart-container">
+            <canvas id="chart-monthly-trend"></canvas>
+        </div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-ranking-star"></i> Top 10 High Crime Localities</h3>
+        </div>
+        <div class="chart-container">
+            <canvas id="chart-top-areas"></canvas>
+        </div>
+    </div>
+
+    <div class="panel-card">
+        <div class="panel-header">
+            <h3><i class="fa-solid fa-sun"></i> Day vs Night Crime Occurrence</h3>
+        </div>
+        <div class="chart-container">
+            <canvas id="chart-day-night"></canvas>
+        </div>
+    </div>
+
+</div>
+{% endblock %}
